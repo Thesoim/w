@@ -16,7 +16,7 @@ const gamesData = [
     {
         title: "Loop Hero",
         images: ["loop1.png", "loop2.png", "loop3.png", "loop4.png"],
-        downloadLink: "https://pixeldrain.com/u/eeXoB7N4",
+        downloadLink: "https://github.com/Thesoim/me-games-/releases/download/66.0/Loop.Hero.apk",
         version: "v1.0.5",
         size: "208MB",
         platform: "Android",
@@ -28,7 +28,7 @@ const gamesData = [
     {
         title: "Door Kickers",
         images: ["door1.png", "door2.png", "door3.png"],
-        downloadLink: "https://pixeldrain.com/u/XWpk8zzw",
+        downloadLink: "https://github.com/Thesoim/me-games-/releases/download/22.4/Door.Kickers.apk",
         version: "v1.1.35",
         size: "467MB",
         platform: "Android",
@@ -40,7 +40,7 @@ const gamesData = [
     {
         title: "Twilight Railway",
         images: ["twilight1.png", "twilight2.png", "twilight3.png"],
-        downloadLink: "https://pixeldrain.com/u/KDnCt4eD",
+        downloadLink: "https://github.com/Thesoim/me-games-/releases/download/66.n/Twilight.Railway.apk",
         version: "v1.0.0",
         size: "187MB",
         platform: "Android",
@@ -67,7 +67,7 @@ const gamesData = [
     {
         title: "Seven Mysteries",
         images: ["sevenmysteries1.png", "sevenmysteries2.png", "sevenmysteries3.png"],
-        downloadLink: "https://pixeldrain.com/u/vSY6Miye",
+        downloadLink: "https://github.com/Thesoim/me-games-/releases/download/6yy.5/Seven.Mysteries.apk",
         version: "v1.7",
         size: "94MB",
         platform: "Android",
@@ -79,7 +79,7 @@ const gamesData = [
     {
         title: "Undertale Red",
         images: ["UndertaleRed1.png", "UndertaleRed2.png", "UndertaleRed3.png"],
-        downloadLink: "https://pixeldrain.com/u/1baa2Ci6",
+        downloadLink: "https://github.com/Thesoim/me-games-/releases/download/222.2/Undertale.Red.apk",
         version: "v1.0.0",
         size: "27MB",
         platform: "Android",
@@ -91,7 +91,7 @@ const gamesData = [
     {
         title: "Our Monsoon Balcony",
         images: ["OurMonsoonBalcony1.png", "OurMonsoonBalcony2.png", "OurMonsoonBalcony3.png", "OurMonsoonBalcony4.png"],
-        downloadLink: "https://pixeldrain.com/u/GCUTArQL",
+        downloadLink: "https://github.com/Thesoim/me-games-/releases/download/77u77/Our.Monsoon.Balcony.apk",
         version: "v2.2.2",
         size: "14MB",
         platform: "Android",
@@ -103,7 +103,7 @@ const gamesData = [
     {
         title: "The Henry Stickmin Collection",
         images: ["TheHenryStickminCollection1.png", "TheHenryStickminCollection2.png"],
-        downloadLink: "https://pixeldrain.com/u/qxzpD7fB",
+        downloadLink: "https://github.com/Thesoim/me-games-/releases/download/333.331/The.Henry.Stickmin.Collection.apk",
         version: "v0.2",
         size: "411MB",
         platform: "Android",
@@ -115,7 +115,7 @@ const gamesData = [
     {
         title: "Stickman Completing the Mission",
         images: ["StickmanCompletingtheMission1.png", "StickmanCompletingtheMission2.png", "StickmanCompletingtheMission3.png"],
-        downloadLink: "https://pixeldrain.com/u/5DEpMhTV",
+        downloadLink: "https://github.com/Thesoim/me-games-/releases/download/22.3/Stickman.Completing.the.Mission.apk",
         version: "v1.0",
         size: "269MB",
         platform: "Android",
