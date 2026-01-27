@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta name="google-site-verification" content="mN7ubAHa98aauHeak5YPazh24hNLHLW2uCNpH_u7XYI" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>تعريبات ذا سويم | The Soim</title>
+
+    <link rel="icon" type="image/png" href="thesoim.png">
+    <link rel="shortcut icon" type="image/png" href="thesoim.png">
+    <link rel="apple-touch-icon" href="thesoim.png">
+
+    <meta name="description" content="موقع متخصص في تعريب العاب الهاتف. اقدم تعريبات عربية دقيقة لالعاب الاندرويد مع الحفاظ على النصوص والمعاني الأصلية.">
+    
+    <meta name="keywords" content="The soim, ذا سويم, تعريبات ذا سويم, تعريبات الهاتف, تعريبات الاندرويد, تعريب العاب, العاب معربة, Android Arabic Games">
+    
+    <meta name="author" content="The Soim">
+    <meta name="robots" content="index, follow">
+
+    <meta property="og:title" content="تعريبات ذا سويم">
+    <meta property="og:description" content="أفضل تعريبات ألعاب الأندرويد الحصرية والدقيقة.">
+    <meta property="og:image" content="thesoim.png">
+    <meta property="og:url" content="https://thesoim.github.io/w/">
+    <meta property="og:type" content="website">
+
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <nav class="navbar">
+        <button class="nav-btn" onclick="showSection('home')">الرئيسية</button>
+        <button class="nav-btn active" onclick="showSection('games')">التعريبات</button>
+        <button class="nav-btn" onclick="showSection('accounts')">حساباتي</button>
+    </nav>
+
+    <header>
+        <div class="logo-box">
+            <img src="thesoim.png" alt="The Soim" class="site-logo">
+        </div>
+    </header>
+
+    <section id="home" class="container">
+        <div class="profile-card">
+            <h2 class="profile-title">تعريبات ذا سويم</h2>
+            <div class="profile-text">
+                <p class="intro-text">
+                    موقع متخصص في تعريب ألعاب الهاتف.
+                    <br><br>
+                    أقدم تعريبات عربية دقيقة لألعاب الأندرويد مع الحفاظ على النصوص والمعاني الأصلية لتكون التجربة مفهومة وسلسة للمستخدم العربي.
+                    <br><br>
+                    يتم العمل بعناية على القوائم والحوارات لضمان وضوح المحتوى وسهولة اللعب.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section id="accounts" class="container">
+        <div class="social-grid">
+            <a href="https://www.instagram.com/ftxxax" class="social-item instagram">
+                <img src="insta.png" alt="Instagram">
+                <h3>Instagram</h3>
+            </a>
+            <a href="https://youtube.com/@ftaxx" class="social-item youtube">
+                <img src="youtube.png" alt="YouTube">
+                <h3>YouTube</h3>
+            </a>
+            <a href="https://t.me/soi7m" class="social-item telegram">
+                <img src="telegram.png" alt="Telegram">
+                <h3>Telegram</h3>
+            </a>
+            <a href="https://www.tiktok.com/@thsoim" class="social-item tiktok">
+                <img src="tiktok.png" alt="TikTok">
+                <h3>TikTok</h3>
+            </a>
+        </div>
+    </section>
+
+    <section id="games" class="container active-section">
+        <div class="games-grid" id="gamesGrid"></div>
+
+        <div class="pagination">
+            <button class="page-btn" onclick="changePage(-1)">السابق</button>
+            <span class="page-info" id="pageInfo">1 / 1</span>
+            <button class="page-btn" onclick="changePage(1)">التالي</button>
+        </div>
+    </section>
+
+    <div id="gameDetailView" class="game-detail-view">
+        <div class="detail-content">
+            <button class="close-detail" onclick="closeGameDetail()">✖</button>
+            <h2 id="detailTitle" class="detail-title"></h2>
+            
+            <div class="detail-img-box">
+                <img id="detailImage" src="">
+            </div>
+
+            <div class="detail-box">
+                <h3>القصة:</h3>
+                <p id="detailStory"></p>
+            </div>
+
+            <div class="stats-row">
+                <div class="detail-box half">
+                    <h3>وقت اللعب:</h3>
+                    <p id="detailTime"></p>
+                </div>
+                <div class="detail-box half">
+                    <h3>النهايات:</h3>
+                    <p id="detailEndings"></p>
+                </div>
+            </div>
+
+            <div id="detailButtons"></div>
+            <div id="instructionsArea" class="instruction-box"></div>
+        </div>
+    </div>
+
+    <div id="live-counter-badge">
+        <div class="badge-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+        </div>
+        <span id="online-count">1</span>
+        <div class="separator"></div>
+        <div class="badge-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg>
+        </div>
+        <span id="total-views">...</span>
+    </div>
+
+    <div style="display:none;">
+        <h1>تعريبات الهاتف - ذا سويم</h1>
+        <h2>تعريبات الاندرويد</h2>
+        <ul>
+            <li>تحميل تعريب OMORI</li>
+            <li>تحميل Loop Hero معربة</li>
+        </ul>
+    </div>
+
+    <script src="games.js"></script>
+    <script src="main.js"></script>
+
+    <script type="module">
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/9.22.0/firebase-app.js";
+        import { getDatabase, ref, onValue, set, onDisconnect, increment, push } from "https://www.gstatic.com/firebasejs/9.22.0/firebase-database.js";
+        const firebaseConfig = {
+            apiKey: "AIzaSyDwFHDxbXLCohXaBwFlc5myFB9P_-QXCXE",
+            authDomain: "mygamesstore-771a0.firebaseapp.com",
+            databaseURL: "https://mygamesstore-771a0-default-rtdb.firebaseio.com",
+            projectId: "mygamesstore-771a0",
+            storageBucket: "mygamesstore-771a0.firebasestorage.app",
+            messagingSenderId: "1098590085550",
+            appId: "1:1098590085550:web:76eff1a069d7c60cd4283f",
+            measurementId: "G-NWDZGVMZF6"
+        };
+        const app = initializeApp(firebaseConfig);
+        const db = getDatabase(app);
+        const onlineRef = ref(db, 'status/online');
+        const connectedRef = ref(db, '.info/connected');
+        onValue(connectedRef, (snap) => {
+            if (snap.val() === true) {
+                const myCon = push(onlineRef);
+                onDisconnect(myCon).remove();
+                set(myCon, true);
+            }
+        });
+        onValue(onlineRef, (snap) => document.getElementById('online-count').innerText = snap.size || 1);
+        const totalViewsRef = ref(db, 'status/total_views');
+        if (!localStorage.getItem('visited_permanently')) {
+            set(totalViewsRef, increment(1));
+            localStorage.setItem('visited_permanently', 'true');
+        }
+        onValue(totalViewsRef, (snap) => document.getElementById('total-views').innerText = snap.val() || 0);
+    </script>
+</body>
+</html>
