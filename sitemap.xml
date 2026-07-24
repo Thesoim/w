@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://thesoim.github.io/w/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://thesoim.github.io/w/thesoim.png</image:loc>
+      <image:title>تعريبات ذا سويم</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://thesoim.github.io/w/games/omori.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://thesoim.github.io/w/omori1.png</image:loc>
+      <image:title>تعريب لعبة OMORI للاندرويد</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://thesoim.github.io/w/games/loop-hero.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://thesoim.github.io/w/loop1.png</image:loc>
+      <image:title>تعريب لعبة Loop Hero للاندرويد</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://thesoim.github.io/w/games/door-kickers.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://thesoim.github.io/w/door1.png</image:loc>
+      <image:title>تعريب لعبة Door Kickers للاندرويد</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://thesoim.github.io/w/games/twilight-railway.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://thesoim.github.io/w/twilight1.png</image:loc>
+      <image:title>تعريب لعبة Twilight Railway للاندرويد</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://thesoim.github.io/w/games/wolf-among-us.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://thesoim.github.io/w/wolf1.png</image:loc>
+      <image:title>تعريب لعبة The Wolf Among Us للاندرويد</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://thesoim.github.io/w/games/seven-mysteries.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://thesoim.github.io/w/sevenmysteries1.png</image:loc>
+      <image:title>تعريب لعبة Seven Mysteries للاندرويد</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://thesoim.github.io/w/games/undertale-red.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://thesoim.github.io/w/UndertaleRed1.png</image:loc>
+      <image:title>تعريب لعبة Undertale Red للاندرويد</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://thesoim.github.io/w/games/our-monsoon-balcony.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://thesoim.github.io/w/OurMonsoonBalcony1.png</image:loc>
+      <image:title>تعريب لعبة Our Monsoon Balcony للاندرويد</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://thesoim.github.io/w/games/henry-stickmin-collection.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://thesoim.github.io/w/TheHenryStickminCollection1.png</image:loc>
+      <image:title>تعريب لعبة Henry Stickmin Collection للاندرويد</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://thesoim.github.io/w/games/completing-the-mission.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://thesoim.github.io/w/StickmanCompletingtheMission1.png</image:loc>
+      <image:title>تعريب لعبة Completing the Mission للاندرويد</image:title>
+    </image:image>
+  </url>
+</urlset>
