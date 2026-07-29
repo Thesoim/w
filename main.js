@@ -323,7 +323,9 @@ function renderSiteIndex() {
 async function initSite() {
     try {
         const [gamesRes, officialRes, newsRes] = await Promise.all([
-            fetch('games.json'), fetch('official.json'), fetch('news.json')
+            fetch('games.json', { cache: 'no-store' }),
+            fetch('official.json', { cache: 'no-store' }),
+            fetch('news.json', { cache: 'no-store' })
         ]);
         gamesData = await gamesRes.json();
         officialGamesData = officialRes.ok ? await officialRes.json() : [];
