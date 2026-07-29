@@ -132,5 +132,42 @@
     "isHidden": false,
     "createdAt": 1785312620573,
     "updatedAt": 1785312620573
+  },
+  {
+    "title": "Prince of Persia Lost Crown",
+    "slug": "Prince-of-Persia",
+    "images": [
+      "Prince-of-Persia1.jpg",
+      "Prince-of-Persia2.jpg",
+      "Prince-of-Persia3.jpg",
+      "Prince-of-Persia4.jpg"
+    ],
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/pixeldrain.com\/api\/file\/K5EWxNtV?download"
+      }
+    ],
+    "version": "1.1.7",
+    "size": "2GB",
+    "platform": "Android",
+    "story": "لعبة أكشن ومغامرات ثنائية الأبعاد (2.5D) من نوع Metroidvania طورتها Ubisoft. تلعب بشخصية سارجون (Sargon)، وهو محارب من فرقة \"الخالدون\" وينطلق في رحلة لإنقاذ أمير فارس داخل جبل قاف حيث يختلط الزمن بالواقع",
+    "timeToBeat": "القصة فقط: 20–25 ساعة.\nمع المهام الجانبية: 25–35 ساعة",
+    "endings": "نهاية واحدة فقط",
+    "metaDescription": "تعريب Prince of Persia: The Lost Crown للأندرويد ترجمة عربية كاملة للعبة",
+    "keywords": "Prince of Persia The Lost Crown, Prince of Persia Lost Crown Android, Prince of Persia The Lost Crown Arabic, تعريب Prince of Persia, تعريب Prince of Persia Lost Crown, تحميل تعريب Prince of Persia, تعريب ألعاب أندرويد, ألعاب أندرويد معربة, ترجمة ألعاب, Arabic Patch, Android Game Translation, Prince of Persia APK, Prince of Persia Android, Lost Crown Arabic, تعريب احترافي, APK, Android, Ubisoft, Prince of Persia Mobile.",
+    "status": "new",
+    "tags": [
+      "مغامرات"
+    ],
+    "customFields": [
+      {
+        "label": "ملاحظة",
+        "value": "عند الدخول الى اللعبة لأول مرة اضغط على زر المطالبة لفتح اللعبة بالكامل + يوجد تحميل داخلي 3GB"
+      }
+    ],
+    "isHidden": false,
+    "createdAt": 1785324984955,
+    "updatedAt": 1785324984955
   }
 ]
