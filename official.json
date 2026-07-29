@@ -62,5 +62,40 @@
     "isHidden": false,
     "createdAt": 1785308805704,
     "updatedAt": 1785308805704
+  },
+  {
+    "title": "Rayman Adventures",
+    "slug": "Rayman-Adventures",
+    "images": [
+      "Rayman-Adventures1.jpg",
+      "Rayman-Adventures2.jpg",
+      "Rayman-Adventures3.jpg",
+      "Rayman-Adventures4.jpg"
+    ],
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/666.9\/Rayman.Adventures.apk"
+      }
+    ],
+    "version": "3.9.95",
+    "size": "451M",
+    "platform": "Android",
+    "story": "ينطلق رايمان برفقة أصدقائه في رحلة عبر عوالم متنوعة لاستعادة البيوض المقدسة التي تمنح شجرة العالم قوتها. خلال المغامرة سيواجه الأعداء والعقبات ويستكشف أماكن جديدة لإنقاذ الطبيعة وإعادة التوازن إلى العالم.",
+    "timeToBeat": "حوالي 8 إلى 12 ساعة",
+    "endings": "نهاية رئيسية واحدة",
+    "metaDescription": "Rayman Adventures للاندوريد",
+    "keywords": "تعريب لعبة Rayman Adventures للأندرويد, مغامرات ريمان معربه, تعريب Rayman Adventures",
+    "status": "new",
+    "tags": [],
+    "customFields": [
+      {
+        "label": "ملاحظة",
+        "value": "بعد تثبيت اللعبة يمكنك حذف المثبت "
+      }
+    ],
+    "isHidden": false,
+    "createdAt": 1785309599011,
+    "updatedAt": 1785309599011
   }
 ]
