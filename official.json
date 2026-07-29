@@ -145,7 +145,7 @@
     "buttons": [
       {
         "label": "تحميل",
-        "url": "https:\/\/pixeldrain.com\/api\/file\/K5EWxNtV?download"
+        "url": "https:\/\/pixeldrain.com\/u\/K5EWxNtV"
       }
     ],
     "version": "1.1.7",
@@ -168,6 +168,6 @@
     ],
     "isHidden": false,
     "createdAt": 1785324984955,
-    "updatedAt": 1785324984955
+    "updatedAt": 1785325618362
   }
 ]
