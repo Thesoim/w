@@ -8,6 +8,7 @@
       "Among-The-Sleep3.jpg",
       "Among-The-Sleep4.jpg"
     ],
+    "videoUrl": "",
     "buttons": [
       {
         "label": "تحميل",
@@ -17,17 +18,18 @@
     "version": "0.0.2.3.4",
     "size": "1.24G",
     "platform": "Android",
+    "category": "",
     "story": "القصة: تلعب بدور طفل عمره سنتان يستيقظ ليلاً ويجد أن والدته اختفت بشكل غامض برفقة دمية دب سحرية تدعى Teddy يستكشف الطفل عالماً مخيفاً يراه بعينيه الطفوليتين بحثاً عن والدته",
     "timeToBeat": "القصة الرئيسية: حوالي 2 إلى 4 ساعات",
     "endings": "نهاية رئيسية واحدة",
     "metaDescription": "Among The Sleep للاندرويد",
     "keywords": "تعريب Among The Sleep, لعبة Among The Sleep معربه, Among The Sleep Arabic",
     "status": "new",
+    "statusUntil": 0,
     "tags": [
       "رعب"
     ],
     "customFields": [],
-    "isHidden": false,
     "createdAt": 1785308805704,
     "updatedAt": 1785308805704
   },
@@ -40,6 +42,7 @@
       "Rise-of-Jericho3.jpg",
       "Rise-of-Jericho4.jpg"
     ],
+    "videoUrl": "",
     "buttons": [
       {
         "label": "تحميل",
@@ -49,17 +52,18 @@
     "version": "1.4.1",
     "size": "28M",
     "platform": "Android",
+    "category": "",
     "story": "تبدأ بقبيلة بدائية صغيرة ومهمتك هي تطويرها تدريجياً إلى مدينة مزدهرة. ستدير الطعام والموارد وتكتشف تقنيات مثل الزراعة وصناعة الملابس والأدوات مع التركيز على نمو المجتمع وبقاء السكان",
     "timeToBeat": "8–15 ساعة",
     "endings": "لا توجد معلومات إلى وجود نهايات متعددة",
     "metaDescription": "تعريب لعبة Rise of Jericho للهاتف",
     "keywords": "لعبة Rise of Jericho, تعريب لعبة Rise of Jericho, Rise of Jericho معربه, العاب اندرويد معربه",
     "status": "new",
+    "statusUntil": 0,
     "tags": [
       "استراتيجية"
     ],
     "customFields": [],
-    "isHidden": false,
     "createdAt": 1785306698670,
     "updatedAt": 1785307925300
   },
@@ -72,6 +76,7 @@
       "Rayman-Adventures3.jpg",
       "Rayman-Adventures4.jpg"
     ],
+    "videoUrl": "",
     "buttons": [
       {
         "label": "تحميل",
@@ -81,12 +86,14 @@
     "version": "3.9.95",
     "size": "451M",
     "platform": "Android",
+    "category": "",
     "story": "ينطلق رايمان برفقة أصدقائه في رحلة عبر عوالم متنوعة لاستعادة البيوض المقدسة التي تمنح شجرة العالم قوتها. خلال المغامرة سيواجه الأعداء والعقبات ويستكشف أماكن جديدة لإنقاذ الطبيعة وإعادة التوازن إلى العالم.",
     "timeToBeat": "حوالي 8 إلى 12 ساعة",
     "endings": "نهاية رئيسية واحدة",
     "metaDescription": "Rayman Adventures للاندوريد",
     "keywords": "تعريب لعبة Rayman Adventures للأندرويد, مغامرات ريمان معربه, تعريب Rayman Adventures",
     "status": "new",
+    "statusUntil": 0,
     "tags": [
       "مغامرات"
     ],
@@ -96,42 +103,8 @@
         "value": "بعد تثبيت اللعبة يمكنك حذف المثبت"
       }
     ],
-    "isHidden": false,
     "createdAt": 1785310232858,
     "updatedAt": 1785310232858
-  },
-  {
-    "title": "Jericho Survival Mission",
-    "slug": "Jericho-Survival-Mission",
-    "images": [
-      "Jericho-Survival-Mission1.jpg",
-      "Jericho-Survival-Mission2.jpg",
-      "Jericho-Survival-Mission3.jpg",
-      "Jericho-Survival-Mission4.jpg"
-    ],
-    "buttons": [
-      {
-        "label": "تحميل",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/77.900\/Jericho.Survival.Mission.apk"
-      }
-    ],
-    "version": "1.33",
-    "size": "534M",
-    "platform": "Android",
-    "story": "لعبة بقاء وأكشن تدور حول مواجهة عالم مليء بالمخاطر حيث يحاول اللاعب النجاة من الأعداء والظروف القاسية عبر القتال واستكشاف البيئة وجمع الموارد",
-    "timeToBeat": "حوالي 4–8 ساعات",
-    "endings": "نهاية واحدة",
-    "metaDescription": "تحميل لعبة ch Survival Missionل للأندرويد معربة بالكامل استمتع بتجربة بقاء وأكشن مليئة بالمغامرات والتحديات مع ترجمة عربية احترافية",
-    "keywords": "تعريب العاب الاندرويد, لعبة Jericho Survival Mission معربه,,Jericho Survival Mission معرب, تعريب لعبة Jericho Survival Mission للأندرويد, تحميل النسخة المعربة, لعبة بقاء وأكشن أندرويد, لعبة رعب ومغامرات معربة, ألعاب أندرويد أوفلاين, ألعاب مترجمة للعربية, تعريب ألعاب أندرويد, ألعاب بقاء وتصويب, The soim تعريب ألعاب.",
-    "status": "new",
-    "tags": [
-      "أكشن",
-      "رعب"
-    ],
-    "customFields": [],
-    "isHidden": false,
-    "createdAt": 1785312620573,
-    "updatedAt": 1785312620573
   },
   {
     "title": "Prince of Persia Lost Crown",
@@ -142,6 +115,7 @@
       "Prince-of-Persia3.jpg",
       "Prince-of-Persia4.jpg"
     ],
+    "videoUrl": "",
     "buttons": [
       {
         "label": "تحميل",
@@ -151,12 +125,14 @@
     "version": "1.1.7",
     "size": "2GB",
     "platform": "Android",
+    "category": "",
     "story": "لعبة أكشن ومغامرات ثنائية الأبعاد (2.5D) من نوع Metroidvania طورتها Ubisoft. تلعب بشخصية سارجون (Sargon)، وهو محارب من فرقة \"الخالدون\" وينطلق في رحلة لإنقاذ أمير فارس داخل جبل قاف حيث يختلط الزمن بالواقع",
     "timeToBeat": "القصة فقط: 20–25 ساعة.\nمع المهام الجانبية: 25–35 ساعة",
     "endings": "نهاية واحدة فقط",
     "metaDescription": "تعريب Prince of Persia: The Lost Crown للأندرويد ترجمة عربية كاملة للعبة",
     "keywords": "Prince of Persia The Lost Crown, Prince of Persia Lost Crown Android, Prince of Persia The Lost Crown Arabic, تعريب Prince of Persia, تعريب Prince of Persia Lost Crown, تحميل تعريب Prince of Persia, تعريب ألعاب أندرويد, ألعاب أندرويد معربة, ترجمة ألعاب, Arabic Patch, Android Game Translation, Prince of Persia APK, Prince of Persia Android, Lost Crown Arabic, تعريب احترافي, APK, Android, Ubisoft, Prince of Persia Mobile.",
     "status": "new",
+    "statusUntil": 0,
     "tags": [
       "مغامرات"
     ],
@@ -166,8 +142,42 @@
         "value": "عند الدخول الى اللعبة لأول مرة اضغط على زر المطالبة لفتح اللعبة بالكامل + يوجد تحميل داخلي 3GB"
       }
     ],
-    "isHidden": false,
     "createdAt": 1785324984955,
     "updatedAt": 1785325618362
+  },
+  {
+    "title": "Jericho Survival Mission",
+    "slug": "Jericho-Survival-Mission",
+    "images": [
+      "Jericho-Survival-Mission1.jpg",
+      "Jericho-Survival-Mission2.jpg",
+      "Jericho-Survival-Mission3.jpg",
+      "Jericho-Survival-Mission4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/77.900\/Jericho.Survival.Mission.apk"
+      }
+    ],
+    "version": "1.33",
+    "size": "534M",
+    "platform": "Android",
+    "category": "",
+    "story": "لعبة بقاء وأكشن تدور حول مواجهة عالم مليء بالمخاطر حيث يحاول اللاعب النجاة من الأعداء والظروف القاسية عبر القتال واستكشاف البيئة وجمع الموارد",
+    "timeToBeat": "حوالي 4–8 ساعات",
+    "endings": "نهاية واحدة",
+    "metaDescription": "تحميل لعبة ch Survival Missionل للأندرويد معربة بالكامل استمتع بتجربة بقاء وأكشن مليئة بالمغامرات والتحديات مع ترجمة عربية احترافية",
+    "keywords": "تعريب العاب الاندرويد, لعبة Jericho Survival Mission معربه,,Jericho Survival Mission معرب, تعريب لعبة Jericho Survival Mission للأندرويد, تحميل النسخة المعربة, لعبة بقاء وأكشن أندرويد, لعبة رعب ومغامرات معربة, ألعاب أندرويد أوفلاين, ألعاب مترجمة للعربية, تعريب ألعاب أندرويد, ألعاب بقاء وتصويب, The soim تعريب ألعاب.",
+    "status": "new",
+    "statusUntil": 0,
+    "tags": [
+      "أكشن",
+      "رعب"
+    ],
+    "customFields": [],
+    "createdAt": 1785312620573,
+    "updatedAt": 1785312620573
   }
 ]
