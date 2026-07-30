@@ -179,5 +179,48 @@
     "customFields": [],
     "createdAt": 1785308805704,
     "updatedAt": 1785308805704
+  },
+  {
+    "title": "GTA San Andreas Netflix",
+    "slug": "GTA-San-Andreas",
+    "images": [
+      "GTA-San-Andreas1.jpg",
+      "GTA-San-Andreas2.png",
+      "GTA-San-Andreas3.jpg",
+      "GTA-San-Andreas4.png"
+    ],
+    "videoUrl": "https:\/\/youtu.be\/xS_DhwmVNjI?si=wVEpBMPhf0XTKtOI",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/pixeldrain.com\/u\/ucBK6Lgr"
+      },
+      {
+        "label": "طريقة تثبيت اللعبة",
+        "url": "https:\/\/t.me\/thasoim\/2919\/2932"
+      }
+    ],
+    "version": "1.86.44544238",
+    "size": "8GB",
+    "platform": "Android",
+    "category": "مغامرات",
+    "story": "تلعب بشخصية كارل جونسون (CJ) الذي يعود إلى مدينة لوس سانتوس بعد مقتل والدته. يجد عصابته القديمة منهارة ويتهم بجريمة لم يرتكبها فيبدأ رحلة لاستعادة نفوذ العصابة والانتقام وكشف الحقيقة متنقلًا بين ثلاث مدن ضخمة",
+    "timeToBeat": "30–40 ساعة",
+    "endings": "نهاية واحدة فقط",
+    "metaDescription": "تحميل لعبة GTA San Andreas Netflix مع التعريب العربي الكامل للهاتف وانطلق مع CJ في عالم مفتوح مليء بالمهام والأكشن مع رسومات محسنة ودعم الأحدث",
+    "keywords": "GTA San Andreas Netflix, GTA San Andreas Netflix معربه, تعريب GTA San Andreas Netflix للهاتف, جاتا سان اندرياس نتفليكس معربه, جاتا سان اندرياس نتفليكس عربية",
+    "status": "new",
+    "statusUntil": 1787966093301,
+    "tags": [
+      "عالم مفتوح"
+    ],
+    "customFields": [
+      {
+        "label": "ملاحظة",
+        "value": "اللعبة تتطلب هاتف متوسط او قوي لتجنب المشاكل"
+      }
+    ],
+    "createdAt": 1785374093302,
+    "updatedAt": 1785374093302
   }
 ]
