@@ -1,39 +1,5 @@
 [
   {
-    "title": "Rise of Jericho",
-    "slug": "Rise-of-Jericho",
-    "images": [
-      "Rise-of-Jericho1.jpg",
-      "Rise-of-Jericho2.jpg",
-      "Rise-of-Jericho3.jpg",
-      "Rise-of-Jericho4.jpg"
-    ],
-    "videoUrl": "",
-    "buttons": [
-      {
-        "label": "تحميل",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/55.8\/Rise.of.Jericho.apk"
-      }
-    ],
-    "version": "1.4.1",
-    "size": "28M",
-    "platform": "Android",
-    "category": "",
-    "story": "تبدأ بقبيلة بدائية صغيرة ومهمتك هي تطويرها تدريجياً إلى مدينة مزدهرة. ستدير الطعام والموارد وتكتشف تقنيات مثل الزراعة وصناعة الملابس والأدوات مع التركيز على نمو المجتمع وبقاء السكان",
-    "timeToBeat": "8–15 ساعة",
-    "endings": "لا توجد معلومات إلى وجود نهايات متعددة",
-    "metaDescription": "تعريب لعبة Rise of Jericho للهاتف",
-    "keywords": "لعبة Rise of Jericho, تعريب لعبة Rise of Jericho, Rise of Jericho معربه, العاب اندرويد معربه",
-    "status": "new",
-    "statusUntil": 0,
-    "tags": [
-      "استراتيجية"
-    ],
-    "customFields": [],
-    "createdAt": 1785306698670,
-    "updatedAt": 1785307925300
-  },
-  {
     "title": "Rayman Adventures",
     "slug": "Rayman-Adventures",
     "images": [
@@ -71,6 +37,40 @@
     ],
     "createdAt": 1785310232858,
     "updatedAt": 1785310232858
+  },
+  {
+    "title": "Rise of Jericho",
+    "slug": "Rise-of-Jericho",
+    "images": [
+      "Rise-of-Jericho1.jpg",
+      "Rise-of-Jericho2.jpg",
+      "Rise-of-Jericho3.jpg",
+      "Rise-of-Jericho4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/55.8\/Rise.of.Jericho.apk"
+      }
+    ],
+    "version": "1.4.1",
+    "size": "28M",
+    "platform": "Android",
+    "category": "",
+    "story": "تبدأ بقبيلة بدائية صغيرة ومهمتك هي تطويرها تدريجياً إلى مدينة مزدهرة. ستدير الطعام والموارد وتكتشف تقنيات مثل الزراعة وصناعة الملابس والأدوات مع التركيز على نمو المجتمع وبقاء السكان",
+    "timeToBeat": "8–15 ساعة",
+    "endings": "لا توجد معلومات إلى وجود نهايات متعددة",
+    "metaDescription": "تعريب لعبة Rise of Jericho للهاتف",
+    "keywords": "لعبة Rise of Jericho, تعريب لعبة Rise of Jericho, Rise of Jericho معربه, العاب اندرويد معربه",
+    "status": "new",
+    "statusUntil": 0,
+    "tags": [
+      "استراتيجية"
+    ],
+    "customFields": [],
+    "createdAt": 1785306698670,
+    "updatedAt": 1785307925300
   },
   {
     "title": "Among The Sleep",
