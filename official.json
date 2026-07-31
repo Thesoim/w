@@ -264,5 +264,52 @@
     "customFields": [],
     "createdAt": 1785308805704,
     "updatedAt": 1785308805704
+  },
+  {
+    "title": "GTA III Definitive",
+    "slug": "GTA-III-Definitive",
+    "images": [
+      "GTA-III-Definitive1.png",
+      "GTA-III-Definitive2.gif",
+      "GTA-III-Definitive3.jpg",
+      "GTA-III-Definitive4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/pixeldrain.com\/u\/EdJGDG5g"
+      },
+      {
+        "label": "تحميل التعريب",
+        "url": "https:\/\/pixeldrain.com\/u\/DEjW1MQ1"
+      },
+      {
+        "label": "طريقة اضافة التعريب",
+        "url": "https:\/\/t.me\/thasoim\/2919\/2933"
+      }
+    ],
+    "version": "1.72.42919648",
+    "size": "1.6GB",
+    "platform": "Android",
+    "category": "",
+    "story": "تدور أحداث GTA III: The Definitive Edition في مدينة Liberty City. تلعب بشخصية كلود (Claude) الذي يتعرض للخيانة من شريكته كاتالينا أثناء عملية سطو فتتركه ليموت بعد إطلاق النار عليه. بعد نجاته يبدأ رحلة انتقام ويتعاون مع عصابات مختلفة للسيطرة على المدينة وكشف المؤامرة حتى يصل إلى المواجهة الأخيرة مع كاتالينا.",
+    "timeToBeat": "35–45 ساعة",
+    "endings": "نهاية واحدة فقط",
+    "metaDescription": "استمتع بلعبة GTA III: The Definitive Edition مع تعريب عربي كامل للأندرويد وانطلق في عالم مفتوح مليء بالمهمات المطاردات",
+    "keywords": "معرب GTA, تعريب GTA III للأندرويد, تعريب ألعاب أندرويد, أفضل ألعاب العالم المفتوح, GTA III Definitive Arabic, تحميل GTA III Definitive, تعريب GTA III Definitive, GTA III Definitive معربة",
+    "status": "new",
+    "statusUntil": 1788087400177,
+    "tags": [
+      "عالم مفتوح"
+    ],
+    "customFields": [
+      {
+        "label": "ملاحظة",
+        "value": "اللعبة تعتمد على قوة هاتفك الافضل يكون معالجك ادنى شي Snapdragon 888 لتجنب المشاكل"
+      }
+    ],
+    "createdAt": 1785495400178,
+    "updatedAt": 1785495400178
   }
 ]
