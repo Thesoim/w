@@ -1,5 +1,45 @@
 [
   {
+    "title": "Bad Parenting",
+    "slug": "Bad-Parenting",
+    "images": [
+      "Bad-Parenting1.jpg",
+      "Bad-Parenting2.jpg",
+      "Bad-Parenting3.gif",
+      "Bad-Parenting4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/yy77\/Bad.Parenting.apk"
+      }
+    ],
+    "version": "0.1",
+    "size": "47M",
+    "platform": "Android",
+    "categories": [
+      "مغامرات",
+      "رعب"
+    ],
+    "story": "لعبة رعب نفسي مستقلة تدور حول الطفل رون (Ron) الذي يعيش داخل أسرة مفككة تعاني من الإهمال والعنف الأسري. تبدأ القصة بحكاية مخيفة عن شخصية تُدعى Mr. Red Face والتي يُقال إنها تكافئ الأطفال المطيعين لكن سرعان ما تتحول الأحداث إلى تجربة مرعبة تكشف أسرارًا مظلمة دون الاعتماد على الرعب التقليدي فقط",
+    "timeToBeat": "حوالي 20 إلى 40 دقيقة",
+    "endings": "نهايتان رئيسيتان",
+    "metaDescription": "تحميل لعبة Bad Parenting المعربة للهواتف مع دعم اللغة العربية وانغمس في تجربة رعب نفسي قصيرة مليئة بالغموض والأحداث المشوقة والأجواء المرعبة",
+    "keywords": "تعريب Bad Parenting, Bad Parenting معربة, Bad Parenting Arabic, تحميل Bad Parenting",
+    "status": "new",
+    "statusUntil": 1788179222259,
+    "tags": [
+      "مغامرات",
+      "رعب"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#D32F2F",
+    "createdAt": 1785587222260,
+    "updatedAt": 1785587222260
+  },
+  {
     "title": "Candleman",
     "slug": "Candleman",
     "images": [
