@@ -1,5 +1,42 @@
 [
   {
+    "title": "Evil Cogs",
+    "slug": "Evil-Cogs",
+    "images": [
+      "Evil-Cogs1.jpg",
+      "Evil-Cogs2.gif",
+      "Evil-Cogs3.jpg",
+      "Evil-Cogs4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/33d3\/Evil.Cogs.apk"
+      }
+    ],
+    "version": "6.1.67",
+    "size": "103M",
+    "platform": "Android",
+    "categories": [
+      "أكشن",
+      "مغامرات"
+    ],
+    "story": "تجربة بمنظور جانبي داخل عالم مظلم بالأبيض والأسود. تتحكم فيها بمخلوق صغير مصنوع من الضوء يحاول النجاة واستعادة الأمل في عالم غارق في الظلام مع تركيز كبير على الفيزياء وحل الألغاز البيئية",
+    "timeToBeat": "حوالي ساعتين إلى 3 ساعات",
+    "endings": "نهاية واحدة فقط",
+    "metaDescription": "تحميل لعبة Evil Cogs على الأندرويد واستكشف عالمًا مظلمًا مليئًا بالألغاز والفخاخ في تجربة منصات ممتعة بترجمة عربية كاملة",
+    "keywords": "تعريب Evil Cogs, Evil Cogs Arabic, تحميل Evil Cogs",
+    "status": "new",
+    "statusUntil": 1788166251836,
+    "tags": [],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#D32F2F",
+    "createdAt": 1785574251838,
+    "updatedAt": 1785574251838
+  },
+  {
     "title": "Helltaker",
     "slug": "Helltaker",
     "images": [
