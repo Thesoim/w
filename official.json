@@ -73,13 +73,15 @@
     "metaDescription": "استمتع بلعبة Helltaker معربة بالكامل للأندرويد وانطلق في مغامرة مليئة بالألغاز والحوارات الكوميدية داخل الجحيم",
     "keywords": "Helltaker معرب, لعبة Helltaker معربه للهاتف, تعريب Helltaker, لعبة Helltaker عربية, Helltaker Arabic, تحميل Helltaker",
     "status": "new",
-    "statusUntil": 1788157844096,
-    "tags": [],
+    "statusUntil": 1788166565730,
+    "tags": [
+      "مغامرات"
+    ],
     "customFields": [],
     "titleColor": "#D32F2F",
     "metaColor": "#1E8E5A",
     "createdAt": 1785565844098,
-    "updatedAt": 1785565844098
+    "updatedAt": 1785574565731
   },
   {
     "title": "GTA III Definitive",
