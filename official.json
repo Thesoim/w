@@ -1,5 +1,53 @@
 [
   {
+    "title": "Starman",
+    "slug": "Starman",
+    "images": [
+      "Starman1.jpg",
+      "Starman2.gif",
+      "Starman3.jpg",
+      "Starman4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "apk",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gg70\/Starman.apk"
+      },
+      {
+        "label": "obb",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gg70\/obb.zip"
+      },
+      {
+        "label": "طريقة تثبيت اللعبة",
+        "url": "https:\/\/t.me\/thasoim\/2919\/2930"
+      }
+    ],
+    "version": "1.0",
+    "size": "128MB",
+    "platform": "Android",
+    "categories": [
+      "مغامرات",
+      "ألغاز"
+    ],
+    "story": "تلعب بشخصية ستارمان كائن هادئ يستكشف عوالم غامضة ويعيد الضوء إلى الآثار القديمة عبر حل الألغاز في رحلة مليئة بالأجواء الهادئة والرسومات الفنية",
+    "timeToBeat": "حوالي 2–4 ساعات",
+    "endings": "نهاية واحدة",
+    "metaDescription": "تحميل لعبة Starman معربة بالكامل على الهاتف حل الألغاز الهادئة داخل عالم فني جميل لإعادة الضوء إلى الآثار القديمة النسخة تدعم اللغة العربية لتجربة لعب مريحة وممتعة على أجهزة الأندرويد.",
+    "keywords": "تعريب Starman, Starman معربة, Starman Arabic, تحميل Starman",
+    "status": "new",
+    "statusUntil": 1788183402812,
+    "tags": [
+      "مغامرات",
+      "ألغاز"
+    ],
+    "customFields": [],
+    "titleColor": "#1E8E5A",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1785591402813,
+    "updatedAt": 1785591402813
+  },
+  {
     "title": "Spelunky Classic HD",
     "slug": "SpelunkyClassicHD",
     "images": [
