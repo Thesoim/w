@@ -1,5 +1,53 @@
 [
   {
+    "title": "Candleman",
+    "slug": "Candleman",
+    "images": [
+      "Candleman1.jpg",
+      "Candleman2.jpg",
+      "Candleman3.jpg",
+      "Candleman4.gif"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "apk",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/22s\/Candleman.apk"
+      },
+      {
+        "label": "obb",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/22s\/obb.zip"
+      },
+      {
+        "label": "طريقة تثبيت اللعبة",
+        "url": "https:\/\/t.me\/thasoim\/2919\/2930"
+      }
+    ],
+    "version": "3.3.4",
+    "size": "680MB",
+    "platform": "Android",
+    "categories": [
+      "ألغاز",
+      "مغامرات"
+    ],
+    "story": "تدور القصة حول شمعة صغيرة تستيقظ على متن سفينة مهجورة وتتساءل عن سبب وجودها. عندما تلمح ضوء منارة بعيدًا، تقرر الانطلاق في رحلة عبر أماكن مظلمة وخطيرة بحثًا عن النور والأمل. وخلال الرحلة ستواجه ألغازًا وعقبات تعتمد على استخدام الضوء والظلام، بينما تحمل القصة رسائل رمزية عن الإصرار واكتشاف الذات",
+    "timeToBeat": "حوالي 4 ساعات",
+    "endings": "نهاية واحدة",
+    "metaDescription": "استمتع بلعبة Candleman المعربة بالكامل للعربية على الهاتف وانطلق في مغامرة ألغاز ومنصات داخل عالم ساحر مليء بالغموض مع تعريب القوائم والحوارات لتجربة لعب أكثر متعة وسهولة",
+    "keywords": "تعريب Candleman, Candleman معربة, Candleman Arabic, تحميل Candleman, تحميل Candleman معربه",
+    "status": "new",
+    "statusUntil": 1788171762201,
+    "tags": [
+      "مغامرات",
+      "أكشن"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#5B4FE9",
+    "createdAt": 1785579762203,
+    "updatedAt": 1785579762203
+  },
+  {
     "title": "Evil Cogs",
     "slug": "Evil-Cogs",
     "images": [
