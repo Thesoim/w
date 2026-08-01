@@ -1,5 +1,42 @@
 [
   {
+    "title": "Spelunky Classic HD",
+    "slug": "SpelunkyClassicHD",
+    "images": [
+      "SpelunkyClassicHD1.jpg",
+      "SpelunkyClassicHD2.jpg",
+      "SpelunkyClassicHD3.jpg",
+      "SpelunkyClassicHD4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gg66\/Spelunky.Classic.HD.apk"
+      }
+    ],
+    "version": "1.2.2",
+    "size": "54M",
+    "platform": "Android",
+    "categories": [
+      "مغامرات",
+      "ألغاز"
+    ],
+    "story": "تلعب بدور مستكشف مغامر ينزل إلى كهوف مليئة بالفخاخ والوحوش والكنوز بحثًا عن الثروة حيث تتغير مراحل اللعبة في كل مرة تلعب فيها",
+    "timeToBeat": "حوالي 4–6 ساعات",
+    "endings": "نهاية واحدة",
+    "metaDescription": "استمتع بلعبة Spelunky Classic HD معربة بالكامل على الهاتف وانطلق في مغامرة روجلايك مليئة بالفخاخ والكنوز والمراحل العشوائية التي تتغير في كل مرة تلعب فيها",
+    "keywords": "تعريب Spelunky Classic HD, Spelunky Classic HD معربة, Spelunky Classic HD Arabic, تحميل Spelunky Classic HD",
+    "status": "new",
+    "statusUntil": 1788181294354,
+    "tags": [],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "",
+    "createdAt": 1785589294355,
+    "updatedAt": 1785589294355
+  },
+  {
     "title": "Desta The Memories Between",
     "slug": "Desta-The-Memories-Between",
     "images": [
