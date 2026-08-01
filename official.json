@@ -28,13 +28,16 @@
     "metaDescription": "تحميل لعبة Evil Cogs على الأندرويد واستكشف عالمًا مظلمًا مليئًا بالألغاز والفخاخ في تجربة منصات ممتعة بترجمة عربية كاملة",
     "keywords": "تعريب Evil Cogs, Evil Cogs Arabic, تحميل Evil Cogs",
     "status": "new",
-    "statusUntil": 1788166251836,
-    "tags": [],
+    "statusUntil": 1788166587133,
+    "tags": [
+      "أكشن",
+      "مغامرات"
+    ],
     "customFields": [],
     "titleColor": "#D32F2F",
     "metaColor": "#D32F2F",
     "createdAt": 1785574251838,
-    "updatedAt": 1785574251838
+    "updatedAt": 1785574587134
   },
   {
     "title": "Helltaker",
