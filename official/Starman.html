@@ -22,7 +22,7 @@
 
     <meta property="og:title" content="Starman الرسمي بالعربي للاندرويد | تعريبات ذا سويم">
     <meta property="og:description" content="تحميل لعبة Starman معربة بالكامل على الهاتف حل الألغاز الهادئة داخل عالم فني جميل لإعادة الضوء إلى الآثار القديمة النسخة تدعم اللغة العربية لتجربة لعب مريحة وممتعة على أجهزة الأندرويد.">
-    <meta property="og:image" content="https://thesoim.github.io/w/image/Starman1.jpg?v=1785591402813">
+    <meta property="og:image" content="https://thesoim.github.io/w/image/Starman1.jpg?v=1785654970481">
     <meta property="og:url" content="https://thesoim.github.io/w/official/Starman.html">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="ar_AR">
@@ -31,7 +31,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Starman الرسمي بالعربي للاندرويد | تعريبات ذا سويم">
     <meta name="twitter:description" content="تحميل لعبة Starman معربة بالكامل على الهاتف حل الألغاز الهادئة داخل عالم فني جميل لإعادة الضوء إلى الآثار القديمة النسخة تدعم اللغة العربية لتجربة لعب مريحة وممتعة على أجهزة الأندرويد.">
-    <meta name="twitter:image" content="https://thesoim.github.io/w/image/Starman1.jpg?v=1785591402813">
+    <meta name="twitter:image" content="https://thesoim.github.io/w/image/Starman1.jpg?v=1785654970481">
 
     <link rel="stylesheet" href="../style.css">
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&display=swap" rel="stylesheet">
@@ -47,7 +47,7 @@
         "fileSize": "128MB",
         "description": "تلعب بشخصية ستارمان كائن هادئ يستكشف عوالم غامضة ويعيد الضوء إلى الآثار القديمة عبر حل الألغاز في رحلة مليئة بالأجواء الهادئة والرسومات الفنية",
         "url": "https://thesoim.github.io/w/official/Starman.html",
-        "image": "https://thesoim.github.io/w/image/Starman1.jpg",
+        "image": "https://thesoim.github.io/w/image/Starman1.jpg?v=1785654970481",
         "inLanguage": "ar",
         "keywords": "تعريب Starman, Starman معربة, Starman Arabic, تحميل Starman",
         "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
@@ -117,9 +117,9 @@
         </section>
 
         <div class="game-page-actions">
-            <a href="https://github.com/Thesoim/me-games-/releases/download/gg70/Starman.apk" class="big-btn" target="_blank" rel="noopener">apk</a>
-            <a href="https://github.com/Thesoim/me-games-/releases/download/gg70/obb.zip" class="big-btn big-btn-secondary" target="_blank" rel="noopener">obb</a>
-            <a href="https://t.me/thasoim/2919/2930" class="big-btn big-btn-secondary" target="_blank" rel="noopener">طريقة تثبيت اللعبة</a>
+            <a href="https://github.com/Thesoim/me-games-/releases/download/gg70/Starman.apk" class="big-btn" target="_blank" rel="noopener"><span class="btn-label">تحميل</span><span class="btn-tag">APK</span></a>
+            <a href="https://github.com/Thesoim/me-games-/releases/download/gg70/obb.zip" class="big-btn big-btn-secondary" target="_blank" rel="noopener"><span class="btn-label">تحميل</span><span class="btn-tag">obb</span></a>
+            <a href="https://t.me/thasoim/2919/2930" class="big-btn big-btn-secondary" target="_blank" rel="noopener"><span class="btn-label">طريقة تثبيت اللعبة</span></a>
         </div>
 
         <section class="related-games" id="relatedGames">
@@ -180,9 +180,10 @@
                 if (!grid || !section) return;
                 if (!picks.length) { section.style.display = 'none'; return; }
                 grid.innerHTML = picks.map(function (g) {
-                    var img = (g.images && g.images[0]) || '';
+                    var raw = (g.images && g.images[0]) || '';
+                    var img = /^https?:\/\//.test(raw) ? raw : ('../image/' + raw);
                     return '<a class="related-card" href="' + g.slug + '.html">' +
-                        '<span class="related-thumb"><img src="../image/' + img + '" alt="' + g.title + '" loading="lazy"></span>' +
+                        '<span class="related-thumb"><img src="' + img + '" alt="' + g.title + '" loading="lazy"></span>' +
                         '<span class="related-name">' + g.title + '</span>' +
                     '</a>';
                 }).join('');
