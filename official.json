@@ -1,5 +1,46 @@
 [
   {
+    "title": "Bad End Theater",
+    "slug": "bad-end-theater",
+    "images": [
+      "bad-end-theater1.jpg",
+      "bad-end-theater2.jpg",
+      "bad-end-theater3.jpg",
+      "bad-end-theater4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/hh67\/Bad.End.Theater.apk",
+        "tag": "Apk"
+      }
+    ],
+    "version": "1.8.0",
+    "size": "116M",
+    "platform": "Android",
+    "categories": [
+      "مغامرات",
+      "ألغاز"
+    ],
+    "story": "تدور حول أربع شخصيات تختلف قصصها ويمكنك تغيير أدوارها وقراراتها لتغيير مجرى الأحداث. الهدف هو استكشاف جميع النهايات ومعرفة كيف تؤثر اختيارات كل شخصية على الآخرين",
+    "timeToBeat": "حوالي 2–3 ساعات",
+    "endings": "40 نهاية",
+    "metaDescription": "تحميل لعبة Bad End Theater معربة بالكامل على الهاتف واكتشف عشرات النهايات المختلفة من خلال تغيير أدوار الشخصيات واتخاذ قرارات تؤثر على مجرى القصة",
+    "keywords": "تعريب Bad End Theater, Bad End Theater معربة, Bad End Theater Arabic, تحميل Bad End Theater",
+    "status": "new",
+    "statusUntil": 1788258932921,
+    "tags": [
+      "مغامرات",
+      "ألغاز"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1785666932922,
+    "updatedAt": 1785666932922
+  },
+  {
     "title": "HUE",
     "slug": "hue",
     "images": [
