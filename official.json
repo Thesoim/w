@@ -1,5 +1,46 @@
 [
   {
+    "title": "King's League II",
+    "slug": "kings-league-ii",
+    "images": [
+      "kings-league-ii1.jpg",
+      "kings-league-ii2.jpg",
+      "kings-league-ii3.jpg",
+      "kings-league-ii4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/pixeldrain.com\/u\/1bpubPdX",
+        "tag": "APK"
+      }
+    ],
+    "version": "4.0.0",
+    "size": "2.41G",
+    "platform": "Android",
+    "categories": [
+      "تقمص أدوار",
+      "استراتيجية"
+    ],
+    "story": "تدير فريقًا من المقاتلين وتسعى للفوز ببطولة King's League من خلال تدريب الأبطال، وتوظيف مقاتلين جدد، وإدارة الموارد وخوض المعارك للوصول إلى لقب البطولة",
+    "timeToBeat": "12–15 ساعة",
+    "endings": "نهاية واحدة",
+    "metaDescription": "تحميل لعبة King's League II معربة بالكامل على الهاتف وقم ببناء فريقك من الأبطال، ودربهم وأدر مواردك بحكمة لخوض البطولات والمعارك الإستراتيجية حتى تصل إلى قمة دوري الملوك",
+    "keywords": "تعريب King's League II, King's League II معربة, تحميل King's League II, King's League II Arabic, King's League II للاندرويد, King's League II بالعربي",
+    "status": "new",
+    "statusUntil": 1788266686256,
+    "tags": [
+      "تقمص أدوار",
+      "استراتيجية"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1785674686257,
+    "updatedAt": 1785674686257
+  },
+  {
     "title": "A Monster's Expedition",
     "slug": "a-monsters-expedition",
     "images": [
