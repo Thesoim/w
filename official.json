@@ -1,5 +1,51 @@
 [
   {
+    "title": "Metroid 2 Fan Remake",
+    "slug": "metroid-2-fan-remake",
+    "images": [
+      "metroid-2-fan-remake1.jpg",
+      "metroid-2-fan-remake2.jpg",
+      "metroid-2-fan-remake3.jpg",
+      "metroid-2-fan-remake4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/jji9\/Metroid.2.fan.remake.apk",
+        "tag": "Apk"
+      },
+      {
+        "label": "طريقة لتثبيت الالعاب القديمة على الإصدارات الحديثة",
+        "url": "https:\/\/youtu.be\/6PYVwKunblk?si=88hAmjmZswg0gvCS",
+        "tag": "طريقة تثبيت اللعبة "
+      }
+    ],
+    "version": "1.5.2",
+    "size": "317M",
+    "platform": "Android",
+    "categories": [
+      "أكشن",
+      "مغامرات"
+    ],
+    "story": "تلعب بشخصية ساموس أران في مهمة إلى كوكب SR388 للقضاء على جميع كائنات الميترويد الخطيرة ومنع استخدامها كسلاح مع استكشاف الكوكب ومواجهة أعداء وزعماء أقوياء",
+    "timeToBeat": "5–7 ساعات",
+    "endings": "نهاية واحدة",
+    "metaDescription": "تحميل لعبة Metroid 2 Fan Remake معربة بالكامل على الهاتف وانطلق مع ساموس أران في مغامرة أكشن وميترويدفينيا لاستكشاف كوكب SR388 والقضاء على كائنات الميترويد",
+    "keywords": "تعريب Metroid 2 Fan Remake, Metroid 2 Fan Remake معربة, تحميل Metroid 2 Fan Remake, Metroid 2 Fan Remake Arabic, Metroid 2 Fan Remake للاندرويد, Metroid 2 Fan Remake بالعربي",
+    "status": "new",
+    "statusUntil": 1788261693049,
+    "tags": [
+      "أكشن",
+      "مغامرات"
+    ],
+    "customFields": [],
+    "titleColor": "#1E8E5A",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1785669693050,
+    "updatedAt": 1785669693050
+  },
+  {
     "title": "Bad End Theater",
     "slug": "bad-end-theater",
     "images": [
