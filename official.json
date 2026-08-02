@@ -11,16 +11,19 @@
     "videoUrl": "",
     "buttons": [
       {
-        "label": "apk",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gg70\/Starman.apk"
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gg70\/Starman.apk",
+        "tag": "APK"
       },
       {
-        "label": "obb",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gg70\/obb.zip"
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gg70\/obb.zip",
+        "tag": "obb"
       },
       {
         "label": "طريقة تثبيت اللعبة",
-        "url": "https:\/\/t.me\/thasoim\/2919\/2930"
+        "url": "https:\/\/t.me\/thasoim\/2919\/2930",
+        "tag": ""
       }
     ],
     "version": "1.0",
@@ -36,7 +39,7 @@
     "metaDescription": "تحميل لعبة Starman معربة بالكامل على الهاتف حل الألغاز الهادئة داخل عالم فني جميل لإعادة الضوء إلى الآثار القديمة النسخة تدعم اللغة العربية لتجربة لعب مريحة وممتعة على أجهزة الأندرويد.",
     "keywords": "تعريب Starman, Starman معربة, Starman Arabic, تحميل Starman",
     "status": "new",
-    "statusUntil": 1788183402812,
+    "statusUntil": 1788246970480,
     "tags": [
       "مغامرات",
       "ألغاز"
@@ -45,7 +48,7 @@
     "titleColor": "#1E8E5A",
     "metaColor": "#1E8E5A",
     "createdAt": 1785591402813,
-    "updatedAt": 1785591402813
+    "updatedAt": 1785654970481
   },
   {
     "title": "Spelunky Classic HD",
@@ -60,7 +63,8 @@
     "buttons": [
       {
         "label": "تحميل",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gg66\/Spelunky.Classic.HD.apk"
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gg66\/Spelunky.Classic.HD.apk",
+        "tag": ""
       }
     ],
     "version": "1.2.2",
@@ -100,7 +104,8 @@
     "buttons": [
       {
         "label": "تحميل",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gh6\/Desta.The.Memories.Between.apk"
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gh6\/Desta.The.Memories.Between.apk",
+        "tag": ""
       }
     ],
     "version": "1.5.4246",
@@ -138,7 +143,8 @@
     "buttons": [
       {
         "label": "تحميل",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/yy77\/Bad.Parenting.apk"
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/yy77\/Bad.Parenting.apk",
+        "tag": ""
       }
     ],
     "version": "0.1",
@@ -178,15 +184,18 @@
     "buttons": [
       {
         "label": "apk",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/22s\/Candleman.apk"
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/22s\/Candleman.apk",
+        "tag": ""
       },
       {
         "label": "obb",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/22s\/obb.zip"
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/22s\/obb.zip",
+        "tag": ""
       },
       {
         "label": "طريقة تثبيت اللعبة",
-        "url": "https:\/\/t.me\/thasoim\/2919\/2930"
+        "url": "https:\/\/t.me\/thasoim\/2919\/2930",
+        "tag": ""
       }
     ],
     "version": "3.3.4",
@@ -226,7 +235,8 @@
     "buttons": [
       {
         "label": "تحميل",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/33d3\/Evil.Cogs.apk"
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/33d3\/Evil.Cogs.apk",
+        "tag": ""
       }
     ],
     "version": "6.1.67",
@@ -266,15 +276,18 @@
     "buttons": [
       {
         "label": "تحميل",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/6y6.8\/Helltaker.apk"
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/6y6.8\/Helltaker.apk",
+        "tag": ""
       },
       {
         "label": "تحميل التعريب",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/6y6.8\/data.zip"
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/6y6.8\/data.zip",
+        "tag": ""
       },
       {
         "label": "طريقة اضافة التعريب",
-        "url": "https:\/\/t.me\/thasoim\/2919\/2923"
+        "url": "https:\/\/t.me\/thasoim\/2919\/2923",
+        "tag": ""
       }
     ],
     "version": "1.1",
@@ -313,15 +326,18 @@
     "buttons": [
       {
         "label": "تحميل",
-        "url": "https:\/\/pixeldrain.com\/u\/EdJGDG5g"
+        "url": "https:\/\/pixeldrain.com\/u\/EdJGDG5g",
+        "tag": ""
       },
       {
         "label": "تحميل التعريب",
-        "url": "https:\/\/pixeldrain.com\/u\/DEjW1MQ1"
+        "url": "https:\/\/pixeldrain.com\/u\/DEjW1MQ1",
+        "tag": ""
       },
       {
         "label": "طريقة اضافة التعريب",
-        "url": "https:\/\/t.me\/thasoim\/2919\/2933"
+        "url": "https:\/\/t.me\/thasoim\/2919\/2933",
+        "tag": ""
       }
     ],
     "version": "1.72.42919648",
@@ -362,15 +378,18 @@
     "buttons": [
       {
         "label": "تحميل",
-        "url": "https:\/\/pixeldrain.com\/u\/t4sFBNdn"
+        "url": "https:\/\/pixeldrain.com\/u\/t4sFBNdn",
+        "tag": ""
       },
       {
         "label": "تحميل التعريب",
-        "url": "https:\/\/pixeldrain.com\/u\/bRZgowr2"
+        "url": "https:\/\/pixeldrain.com\/u\/bRZgowr2",
+        "tag": ""
       },
       {
         "label": "طريقة اضافة التعريب",
-        "url": "https:\/\/t.me\/thasoim\/2919\/2933"
+        "url": "https:\/\/t.me\/thasoim\/2919\/2933",
+        "tag": ""
       }
     ],
     "version": "1.72.42919648",
@@ -406,11 +425,13 @@
     "buttons": [
       {
         "label": "تحميل",
-        "url": "https:\/\/pixeldrain.com\/u\/ucBK6Lgr"
+        "url": "https:\/\/pixeldrain.com\/u\/ucBK6Lgr",
+        "tag": ""
       },
       {
         "label": "طريقة تثبيت اللعبة",
-        "url": "https:\/\/t.me\/thasoim\/2919\/2932"
+        "url": "https:\/\/t.me\/thasoim\/2919\/2932",
+        "tag": ""
       }
     ],
     "version": "1.86.44544238",
@@ -453,7 +474,8 @@
     "buttons": [
       {
         "label": "تحميل",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/666.9\/Rayman.Adventures.apk"
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/666.9\/Rayman.Adventures.apk",
+        "tag": ""
       }
     ],
     "version": "3.9.95",
@@ -494,7 +516,8 @@
     "buttons": [
       {
         "label": "تحميل",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/77.900\/Jericho.Survival.Mission.apk"
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/77.900\/Jericho.Survival.Mission.apk",
+        "tag": ""
       }
     ],
     "version": "1.33",
@@ -531,7 +554,8 @@
     "buttons": [
       {
         "label": "تحميل",
-        "url": "https:\/\/pixeldrain.com\/u\/K5EWxNtV"
+        "url": "https:\/\/pixeldrain.com\/u\/K5EWxNtV",
+        "tag": ""
       }
     ],
     "version": "1.1.7",
@@ -572,7 +596,8 @@
     "buttons": [
       {
         "label": "تحميل",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/55.8\/Rise.of.Jericho.apk"
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/55.8\/Rise.of.Jericho.apk",
+        "tag": ""
       }
     ],
     "version": "1.4.1",
@@ -608,7 +633,8 @@
     "buttons": [
       {
         "label": "تحميل",
-        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/44.03\/Among.The.Sleep.apk"
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/44.03\/Among.The.Sleep.apk",
+        "tag": ""
       }
     ],
     "version": "0.0.2.3.4",
