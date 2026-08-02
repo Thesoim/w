@@ -1,5 +1,51 @@
 [
   {
+    "title": "HUE",
+    "slug": "hue",
+    "images": [
+      "hue1.jpg",
+      "hue2.jpg",
+      "hue3.jpg",
+      "hue4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/ghh6\/HUE.apk",
+        "tag": ""
+      }
+    ],
+    "version": "1.7",
+    "size": "121M",
+    "platform": "Android",
+    "categories": [
+      "مغامرات",
+      "ألغاز"
+    ],
+    "story": "تلعب بدور هيو فتى يبحث عن والدته المفقودة في عالم يعتمد على الألوان حيث تستخدم تغيير الألوان لحل الألغاز والتقدم في مغامرة مليئة بالأسرار",
+    "timeToBeat": "حوالي 4–6 ساعات",
+    "endings": "نهاية واحدة",
+    "metaDescription": "تحميل لعبة HUE معربة للهاتف بالعربي مجاناً - تعريب دقيق واحترافي يحافظ على قصة اللعبة الأصلية",
+    "keywords": "HUE Arabic, تحميل HUE, تعريب HUE, HUE معربة",
+    "status": "new",
+    "statusUntil": 1788255336052,
+    "tags": [
+      "مغامرات",
+      "ألغاز"
+    ],
+    "customFields": [
+      {
+        "label": "تعريب ",
+        "value": "الحلم المتجدد "
+      }
+    ],
+    "titleColor": "#D32F2F",
+    "metaColor": "#5B4FE9",
+    "createdAt": 1785663336053,
+    "updatedAt": 1785663336053
+  },
+  {
     "title": "Starman",
     "slug": "Starman",
     "images": [
