@@ -1,5 +1,46 @@
 [
   {
+    "title": "Codenames",
+    "slug": "codenames",
+    "images": [
+      "codenames1.jpg",
+      "codenames2.jpg",
+      "codenames3.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/uu7u\/Codenames.apk",
+        "tag": "apk",
+        "color": "#2E7D32"
+      }
+    ],
+    "version": "1.57.4430",
+    "size": "158M",
+    "platform": "Android",
+    "categories": [
+      "استراتيجية",
+      "جماعية"
+    ],
+    "story": "لعبة كلمات جماعية تعتمد على الذكاء والتواصل حيث يتنافس فريقان لاكتشاف الكلمات الصحيحة باستخدام تلميحات يقدمها قائد كل فريق",
+    "timeToBeat": "15–30 دقيقة",
+    "endings": "لا توجد نهايات",
+    "metaDescription": "تحميل لعبة Codenames معربة بالكامل على الهاتف وتحدى أصدقاءك في لعبة كلمات جماعية تعتمد على الذكاء والتفكير والتعاون لاكتشاف الكلمات الصحيحة باستخدام أقل عدد ممكن من التلميحات",
+    "keywords": "تعريب Codenames, Codenames معربة, تحميل Codenames, Codenames Arabic, Codenames للاندرويد, Codenames بالعربي",
+    "status": "updated",
+    "statusUntil": 1788336921183,
+    "tags": [
+      "استراتيجية",
+      "جماعية"
+    ],
+    "customFields": [],
+    "titleColor": "#1E8E5A",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1785744921184,
+    "updatedAt": 1785744921184
+  },
+  {
     "title": "King's League II",
     "slug": "kings-league-ii",
     "images": [
@@ -13,7 +54,8 @@
       {
         "label": "تحميل",
         "url": "https:\/\/pixeldrain.com\/u\/1bpubPdX",
-        "tag": "APK"
+        "tag": "APK",
+        "color": ""
       }
     ],
     "version": "4.0.0",
@@ -54,7 +96,8 @@
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/77u7\/A.Monster.s.Expedition.apk",
-        "tag": "apk"
+        "tag": "apk",
+        "color": ""
       }
     ],
     "version": "1.2.1",
@@ -95,12 +138,14 @@
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/jji9\/Metroid.2.fan.remake.apk",
-        "tag": "Apk"
+        "tag": "Apk",
+        "color": ""
       },
       {
         "label": " تشغيل الالعاب القديمة على الإصدارات الحديثة",
         "url": "https:\/\/youtu.be\/6PYVwKunblk?si=88hAmjmZswg0gvCS",
-        "tag": "طريقة تثبيت اللعبة "
+        "tag": "طريقة تثبيت اللعبة ",
+        "color": ""
       }
     ],
     "version": "1.5.2",
@@ -141,7 +186,8 @@
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/hh67\/Bad.End.Theater.apk",
-        "tag": "Apk"
+        "tag": "Apk",
+        "color": ""
       }
     ],
     "version": "1.8.0",
@@ -182,7 +228,8 @@
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/ghh6\/HUE.apk",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "1.7",
@@ -228,17 +275,20 @@
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gg70\/Starman.apk",
-        "tag": "APK"
+        "tag": "APK",
+        "color": ""
       },
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gg70\/obb.zip",
-        "tag": "obb"
+        "tag": "obb",
+        "color": ""
       },
       {
         "label": "طريقة تثبيت اللعبة",
         "url": "https:\/\/t.me\/thasoim\/2919\/2930",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "1.0",
@@ -279,7 +329,8 @@
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gg66\/Spelunky.Classic.HD.apk",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "1.2.2",
@@ -320,7 +371,8 @@
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gh6\/Desta.The.Memories.Between.apk",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "1.5.4246",
@@ -359,7 +411,8 @@
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/yy77\/Bad.Parenting.apk",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "0.1",
@@ -400,17 +453,20 @@
       {
         "label": "apk",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/22s\/Candleman.apk",
-        "tag": ""
+        "tag": "",
+        "color": ""
       },
       {
         "label": "obb",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/22s\/obb.zip",
-        "tag": ""
+        "tag": "",
+        "color": ""
       },
       {
         "label": "طريقة تثبيت اللعبة",
         "url": "https:\/\/t.me\/thasoim\/2919\/2930",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "3.3.4",
@@ -451,7 +507,8 @@
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/33d3\/Evil.Cogs.apk",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "6.1.67",
@@ -492,17 +549,20 @@
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/6y6.8\/Helltaker.apk",
-        "tag": ""
+        "tag": "",
+        "color": ""
       },
       {
         "label": "تحميل التعريب",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/6y6.8\/data.zip",
-        "tag": ""
+        "tag": "",
+        "color": ""
       },
       {
         "label": "طريقة اضافة التعريب",
         "url": "https:\/\/t.me\/thasoim\/2919\/2923",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "1.1",
@@ -542,17 +602,20 @@
       {
         "label": "تحميل",
         "url": "https:\/\/pixeldrain.com\/u\/EdJGDG5g",
-        "tag": ""
+        "tag": "",
+        "color": ""
       },
       {
         "label": "تحميل التعريب",
         "url": "https:\/\/pixeldrain.com\/u\/DEjW1MQ1",
-        "tag": ""
+        "tag": "",
+        "color": ""
       },
       {
         "label": "طريقة اضافة التعريب",
         "url": "https:\/\/t.me\/thasoim\/2919\/2933",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "1.72.42919648",
@@ -594,17 +657,20 @@
       {
         "label": "تحميل",
         "url": "https:\/\/pixeldrain.com\/u\/t4sFBNdn",
-        "tag": ""
+        "tag": "",
+        "color": ""
       },
       {
         "label": "تحميل التعريب",
         "url": "https:\/\/pixeldrain.com\/u\/bRZgowr2",
-        "tag": ""
+        "tag": "",
+        "color": ""
       },
       {
         "label": "طريقة اضافة التعريب",
         "url": "https:\/\/t.me\/thasoim\/2919\/2933",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "1.72.42919648",
@@ -641,12 +707,14 @@
       {
         "label": "تحميل",
         "url": "https:\/\/pixeldrain.com\/u\/ucBK6Lgr",
-        "tag": ""
+        "tag": "",
+        "color": ""
       },
       {
         "label": "طريقة تثبيت اللعبة",
         "url": "https:\/\/t.me\/thasoim\/2919\/2932",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "1.86.44544238",
@@ -690,7 +758,8 @@
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/666.9\/Rayman.Adventures.apk",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "3.9.95",
@@ -732,7 +801,8 @@
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/77.900\/Jericho.Survival.Mission.apk",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "1.33",
@@ -770,7 +840,8 @@
       {
         "label": "تحميل",
         "url": "https:\/\/pixeldrain.com\/u\/K5EWxNtV",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "1.1.7",
@@ -812,7 +883,8 @@
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/55.8\/Rise.of.Jericho.apk",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "1.4.1",
@@ -849,7 +921,8 @@
       {
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/44.03\/Among.The.Sleep.apk",
-        "tag": ""
+        "tag": "",
+        "color": ""
       }
     ],
     "version": "0.0.2.3.4",
