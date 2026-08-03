@@ -1,5 +1,47 @@
 [
   {
+    "title": "OXENFREE II Lost Signals",
+    "slug": "oxenfree-ii-lost-signals",
+    "images": [
+      "oxenfree-ii-lost-signals1.jpg",
+      "oxenfree-ii-lost-signals2.jpg",
+      "oxenfree-ii-lost-signals3.jpg",
+      "oxenfree-ii-lost-signals4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/yy6yt\/OXENFREE.II.Lost.Signals.apk",
+        "tag": "APK",
+        "color": "#2E7D32"
+      }
+    ],
+    "version": "1.2.14",
+    "size": "1.02G",
+    "platform": "Android",
+    "categories": [
+      "ألغاز",
+      "قصة تفاعلية"
+    ],
+    "story": "تلعب بدور رايلي التي تعود إلى مسقط رأسها للتحقيق في إشارات راديو غامضة لتجد نفسها وسط أحداث خارقة للطبيعة وقرارات تؤثر على مصير الشخصيات والقصة",
+    "timeToBeat": "8–10 ساعات",
+    "endings": "حسب اختياراتك",
+    "metaDescription": "استمتع بلعبة OXENFREE II: Lost Signals معربة بالكامل على الهاتف واكشف أسرار الإشارات الغامضة في مغامرة قصصية مشوقة تمزج بين الرعب النفسي والألغاز حيث تؤثر اختياراتك على مجرى الأحداث والنهايات",
+    "keywords": "تعريب OXENFREE II: Lost Signals, OXENFREE II: Lost Signals معربة, تحميل OXENFREE II: Lost Signals, OXENFREE II: Lost Signals Arabic, OXENFREE II: Lost Signals للاندرويد, OXENFREE II: Lost Signals بالعربي, تعريب OXENFREE II Lost Signals, OXENFREE II Lost Signals معربة, OXENFREE II Lost Signals Arabic, تحميل OXENFREE II Lost Signals",
+    "status": "new",
+    "statusUntil": 1788344206348,
+    "tags": [
+      "ألغاز",
+      "قصة تفاعلية"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1785752206350,
+    "updatedAt": 1785752206350
+  },
+  {
     "title": "Teslagrad",
     "slug": "teslagrad",
     "images": [
