@@ -1,5 +1,47 @@
 [
   {
+    "title": "Wall of Insanity",
+    "slug": "wall-of-insanity",
+    "images": [
+      "wall-of-insanity1.jpg",
+      "wall-of-insanity2.jpg",
+      "wall-of-insanity3.jpg",
+      "wall-of-insanity4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/uu7u8\/Wall.of.Insanity.apk",
+        "tag": "APK",
+        "color": "#2E7D32"
+      }
+    ],
+    "version": "1.65",
+    "size": "883M",
+    "platform": "Android",
+    "categories": [
+      "رعب",
+      "أكشن"
+    ],
+    "story": "تلعب بدور ضابط شرطة يحقق في طائفة غامضة لكن المهمة تتحول إلى كابوس مليء بالمخلوقات المرعبة والأماكن المظلمة تكشف أسرارًا مخيفة أثناء محاولتك النجاة",
+    "timeToBeat": "6–8 ساعات",
+    "endings": "نهاية واحدة",
+    "metaDescription": "استمتع بلعبة Wall of Insanity معربة بالكامل على الهاتف وخض تجربة رعب بقاء مليئة بالمواجهات العنيفة والألغاز والأجواء المرعبة واكشف أسرار طائفة غامضة في مغامرة مشوقة",
+    "keywords": "تعريب Wall of Insanity, Wall of Insanity معربة, تحميل Wall of Insanity, Wall of Insanity Arabic, Wall of Insanity للاندرويد, Wall of Insanity بالعربي",
+    "status": "new",
+    "statusUntil": 1788373175570,
+    "tags": [
+      "رعب",
+      "أكشن"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1785781175572,
+    "updatedAt": 1785781175572
+  },
+  {
     "title": "Maze Mice",
     "slug": "maze-mice",
     "images": [
