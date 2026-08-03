@@ -1,5 +1,47 @@
 [
   {
+    "title": "Maze Mice",
+    "slug": "maze-mice",
+    "images": [
+      "maze-mice1.jpg",
+      "maze-mice2.jpg",
+      "maze-mice3.jpg",
+      "maze-mice4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/hhtj7\/Maze.Mice.apk",
+        "tag": "apk",
+        "color": "#2E7D32"
+      }
+    ],
+    "version": "1.0.22",
+    "size": "71M",
+    "platform": "Android",
+    "categories": [
+      "أكشن",
+      "أركيد"
+    ],
+    "story": "تلعب بدور فأر صغير يستكشف متاهات مليئة بالجبن والأعداء ويجمع الترقيات مع تجنب المخاطر في لعبة تعتمد على الحركة الذكية حيث يتحرك الوقت فقط عندما تتحرك",
+    "timeToBeat": "لا يوجد وقت",
+    "endings": "لا توجد نهاية",
+    "metaDescription": "استمتع بلعبة Maze Mice معربة بالكامل على الهاتف وانطلق في مغامرة روجلايت سريعة داخل متاهات مليئة بالأعداء والجبن حيث يتحرك الوقت فقط أثناء حركتك مما يمنحك تجربة لعب ذكية وممتعة",
+    "keywords": "تعريب Maze Mice, Maze Mice معربة, تحميل Maze Mice, Maze Mice Arabic, Maze Mice للاندرويد, Maze Mice بالعربي",
+    "status": "new",
+    "statusUntil": 1788360690858,
+    "tags": [
+      "أركيد",
+      "أكشن"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1785768690859,
+    "updatedAt": 1785768690859
+  },
+  {
     "title": "My Child Lebensborn",
     "slug": "my-child-lebensborn",
     "images": [
