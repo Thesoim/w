@@ -1,5 +1,59 @@
 [
   {
+    "title": "Teslagrad",
+    "slug": "teslagrad",
+    "images": [
+      "teslagrad1.jpg",
+      "teslagrad2.jpg",
+      "teslagrad3.jpg",
+      "teslagrad4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/yy8j\/Teslagrad.apk",
+        "tag": "APK",
+        "color": "#2E7D32"
+      },
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/yy8j\/obb.zip",
+        "tag": "OBB",
+        "color": "#2E7D32"
+      },
+      {
+        "label": "طريقة تثبيت اللعبة",
+        "url": "https:\/\/t.me\/thasoim\/2919\/2930",
+        "tag": "",
+        "color": "#C62828"
+      }
+    ],
+    "version": "2.2",
+    "size": "272MB",
+    "platform": "Android",
+    "categories": [
+      "ألغاز",
+      "أكشن"
+    ],
+    "story": "تلعب بدور صبي صغير يهرب من جنود المملكة ويلجأ إلى برج تسلاغراد الغامض حيث يستخدم قوى المغناطيسية والكهرباء لحل الألغاز وكشف أسرار البرج والماضي",
+    "timeToBeat": "8–10 ساعات",
+    "endings": "نهاية واحدة",
+    "metaDescription": "استمتع بلعبة Teslagrad معربة بالكامل على الهاتف واستخدم قوى المغناطيسية والكهرباء لحل الألغاز واستكشاف برج تسلاغراد الغامض في مغامرة تجمع بين الأكشن والمنصات والميترويدفينيا",
+    "keywords": "تعريب Teslagrad, Teslagrad معربة, Teslagrad Arabic, تحميل Teslagrad",
+    "status": "new",
+    "statusUntil": 1788343276026,
+    "tags": [
+      "ألغاز",
+      "أكشن"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1785751276028,
+    "updatedAt": 1785751276028
+  },
+  {
     "title": "Moth Lake A Horror Story",
     "slug": "moth-lake-a-horror-story",
     "images": [
