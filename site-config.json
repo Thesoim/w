@@ -2,9 +2,17 @@
   "siteName": "تعريبات ذا سويم",
   "intro": "موقع متخصص في تعريب العاب الهاتف.<br><br>أقدم تعريبات عربية دقيقة لألعاب الأندرويد مع الحفاظ على النصوص والمعاني الأصلية لتكون التجربة مفهومة وسلسة للمستخدم العربي.<br><br>يتم العمل بعناية على القوائم والحوارات لضمان وضوح المحتوى وسهولة اللعب.",
   "social": [
-    { "name": "instagram", "url": "https://www.instagram.com/ftxxax" },
-    { "name": "youtube", "url": "https://youtube.com/@ftaxx" },
-    { "name": "telegram", "url": "https://t.me/thasoim" },
-    { "name": "tiktok", "url": "https://www.tiktok.com/@thsoim" }
+    {
+      "name": "youtube",
+      "url": "https:\/\/youtube.com\/@ftaxx"
+    },
+    {
+      "name": "telegram",
+      "url": "https:\/\/t.me\/thasoim"
+    },
+    {
+      "name": "tiktok",
+      "url": "https:\/\/www.tiktok.com\/@thsoim"
+    }
   ]
 }
