@@ -1,5 +1,45 @@
 [
   {
+    "title": "My Friend Pedro",
+    "slug": "my-friend-pedro",
+    "images": [
+      "my-friend-pedro1.jpg",
+      "my-friend-pedro2.jpg",
+      "my-friend-pedro3.jpg",
+      "my-friend-pedro4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/55t5r\/My.Friend.Pedro.apk",
+        "tag": "APK",
+        "color": "#2E7D32"
+      }
+    ],
+    "version": "1.15",
+    "size": "109M",
+    "platform": "Android",
+    "categories": [
+      "أكشن"
+    ],
+    "story": "تلعب بدور بطل مجهول يتلقى أوامر من موزة ناطقة تدعى بيدرو لينطلق في رحلة مليئة بإطلاق النار والحركات البهلوانية للقضاء على العصابات وكشف حقيقة ما يحدث",
+    "timeToBeat": "7–9 ساعات",
+    "endings": "نهاية واحدة",
+    "metaDescription": "استمتع بلعبة My Friend Pedro معربة بالكامل على الهاتف وانطلق في مغامرة أكشن سريعة مليئة بإطلاق النار والحركات البهلوانية واقضِ على العصابات بأسلوب سينمائي ممتع",
+    "keywords": "تعريب My Friend Pedro, My Friend Pedro معربة, تحميل My Friend Pedro, My Friend Pedro Arabic, My Friend Pedro للاندرويد, My Friend Pedro بالعربي",
+    "status": "new",
+    "statusUntil": 1788443823646,
+    "tags": [
+      "أكشن"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1785851823648,
+    "updatedAt": 1785851823648
+  },
+  {
     "title": "Wall of Insanity",
     "slug": "wall-of-insanity",
     "images": [
