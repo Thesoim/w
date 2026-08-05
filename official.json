@@ -1,5 +1,47 @@
 [
   {
+    "title": "Black Border 2",
+    "slug": "black-border-2",
+    "images": [
+      "black-border-21.jpg",
+      "black-border-22.jpg",
+      "black-border-23.webp",
+      "black-border-24.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/uu7uj\/Black.Border.2.apk",
+        "tag": "APK",
+        "color": "#C62828"
+      }
+    ],
+    "version": "2.9.9",
+    "size": "165M",
+    "platform": "Android",
+    "categories": [
+      "استراتيجية",
+      "قصة تفاعلية"
+    ],
+    "story": "تلعب بدور ضابط حدود مسؤول عن فحص المسافرين والمركبات والوثائق ومنع التهريب وكشف المزورين مع مواجهة قرارات صعبة تؤثر على سير عملك وتقدمك في اللعبة",
+    "timeToBeat": "15–20 ساعة",
+    "endings": "نهاية واحدة",
+    "metaDescription": "استمتع بلعبة Black Border 2 معربة بالكامل على الهاتف وتولَّ دور ضابط حدود يفحص جوازات السفر والمركبات ويكشف عمليات التهريب والتزوير من خلال قرارات تؤثر على سير الأحداث",
+    "keywords": "تعريب Black Border 2, Black Border 2 معربة, تحميل Black Border 2, Black Border 2 Arabic, Black Border 2 للاندرويد, Black Border 2 بالعربي",
+    "status": "new",
+    "statusUntil": 1788517054065,
+    "tags": [
+      "استراتيجية",
+      "قصة تفاعلية"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1785925054067,
+    "updatedAt": 1785925054067
+  },
+  {
     "title": "The Walking Dead 3",
     "slug": "the-walking-dead-3",
     "images": [
