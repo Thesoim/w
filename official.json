@@ -1,5 +1,47 @@
 [
   {
+    "title": "Figment 2",
+    "slug": "figment-2",
+    "images": [
+      "figment-21.jpg",
+      "figment-22.jpg",
+      "figment-23.jpg",
+      "figment-24.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/gg7jk\/Figment.2.apk",
+        "tag": "APK",
+        "color": "#C62828"
+      }
+    ],
+    "version": "1.0.56",
+    "size": "1.88G",
+    "platform": "Android",
+    "categories": [
+      "مغامرات",
+      "ألغاز"
+    ],
+    "story": "تدور أحداثها داخل العقل البشري حيث تجسد شخصية Dusty وتواجه الكوابيس التي تنشر الفوضى تعتمد على حل الألغاز الاستكشاف ومعارك زعماء موسيقية في عالم فني سريالي مليء بالألوان والموسيقى",
+    "timeToBeat": "7–9 ساعات",
+    "endings": "نهاية واحدة",
+    "metaDescription": "تحميل لعبة Figment 2 معربة للهاتف استمتع بمغامرة أكشن وألغاز داخل عالم خيالي مليء بالاستكشاف والمعارك الموسيقية مع دعم كامل للغة العربية",
+    "keywords": "تعريب Figment 2, Figment 2 معربة, تحميل Figment 2, Figment 2 Arabic, Figment 2 للاندرويد, Figment 2 بالعربي",
+    "status": "new",
+    "statusUntil": 1788713637467,
+    "tags": [
+      "مغامرات",
+      "ألغاز"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1786121637468,
+    "updatedAt": 1786121637468
+  },
+  {
     "title": "Figment",
     "slug": "figment",
     "images": [
