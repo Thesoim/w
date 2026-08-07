@@ -1,5 +1,53 @@
 [
   {
+    "title": "Figment",
+    "slug": "figment",
+    "images": [
+      "figment1.jpg",
+      "figment2.jpg",
+      "figment3.jpg",
+      "figment4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/djdj\/Figment.apk",
+        "tag": "APK",
+        "color": "#2E7D32"
+      },
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/djdj\/obb.zip",
+        "tag": "OBB",
+        "color": "#2E7D32"
+      }
+    ],
+    "version": "1.5.0",
+    "size": "744M",
+    "platform": "Android",
+    "categories": [
+      "ألغاز",
+      "مغامرات"
+    ],
+    "story": "تدور أحداث Figment داخل العقل البشري حيث تلعب بدور داستي تجسيد الشجاعة الذي ينطلق لمواجهة الكوابيس واستعادة السلام إلى عالم مليء بالخيال والموسيقى والألغاز.",
+    "timeToBeat": "7–9 ساعات",
+    "endings": "نهاية واحدة",
+    "metaDescription": "استمتع بلعبة Figment معربة بالكامل على الهاتف وانطلق في مغامرة خيالية داخل العقل البشري مليئة بالألغاز والموسيقى والمعارك وساعد داستي على مواجهة الكوابيس واستعادة السلام",
+    "keywords": "تعريب Figment, Figment معربة, تحميل Figment, Figment Arabic, Figment للاندرويد, Figment بالعربي",
+    "status": "new",
+    "statusUntil": 1788655298217,
+    "tags": [
+      "مغامرات",
+      "ألغاز"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1786063298218,
+    "updatedAt": 1786063298218
+  },
+  {
     "title": "Black Border 3",
     "slug": "black-border-3",
     "images": [
