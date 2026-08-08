@@ -1,5 +1,47 @@
 [
   {
+    "title": "Maid of Sker",
+    "slug": "maid-of-sker",
+    "images": [
+      "maid-of-sker1.jpg",
+      "maid-of-sker2.jpg",
+      "maid-of-sker3.jpg",
+      "maid-of-sker4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/pixeldrain.com\/u\/7uVsDuT3",
+        "tag": "APK",
+        "color": "#C62828"
+      }
+    ],
+    "version": "1.2",
+    "size": "2.25G",
+    "platform": "Android",
+    "categories": [
+      "رعب",
+      "مغامرات"
+    ],
+    "story": "تدور أحداث Maid of Sker داخل فندق Sker الغامض في ويلز حيث يصل توماس إيفانز للبحث عن امرأة تدعى إليزابيث ليجد نفسه في مواجهة عائلة غامضة ومخلوقات مرعبة تعتمد على السمع لاكتشاف ضحاياها.",
+    "timeToBeat": "7–9 ساعات",
+    "endings": "3 نهايات",
+    "metaDescription": "استمتع بلعبة Maid of Sker معربة بالكامل على الهاتف وخض تجربة رعب بقاء مرعبة داخل فندق غامض مليء بالأسرار والمخلوقات التي تعتمد على السمع لمطاردة ضحاياها استخدم التخفي وحل الألغاز لكشف الحقيقة والنجاة من الكابوس",
+    "keywords": "تعريب Maid of Sker, Maid of Sker معربة, تحميل Maid of Sker, Maid of Sker Arabic, Maid of Sker للاندرويد, Maid of Sker بالعربي",
+    "status": "new",
+    "statusUntil": 1788809269125,
+    "tags": [
+      "مغامرات",
+      "رعب"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1786217269126,
+    "updatedAt": 1786217269126
+  },
+  {
     "title": "Figment 2",
     "slug": "figment-2",
     "images": [
