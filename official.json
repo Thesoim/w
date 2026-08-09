@@ -1,5 +1,47 @@
 [
   {
+    "title": "Twelve Minutes",
+    "slug": "twelve-minutes",
+    "images": [
+      "twelve-minutes1.jpg",
+      "twelve-minutes2.jpg",
+      "twelve-minutes3.jpg",
+      "twelve-minutes4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/dd6ss\/Twelve.Minutes.apks",
+        "tag": "apks",
+        "color": "#C62828"
+      }
+    ],
+    "version": "1.0.4783",
+    "size": "834M",
+    "platform": "Android",
+    "categories": [
+      "قصة تفاعلية",
+      "ألغاز"
+    ],
+    "story": "تعيش ليلة عادية مع زوجتك لكن رجلًا غامضًا يقتحم منزلك ويتهمها بجريمة قتل بعد موتك تعود الأحداث إلى البداية نفسها وتجد نفسك عالقًا في حلقة زمنية مدتها 12 دقيقة",
+    "timeToBeat": "8–12 ساعة",
+    "endings": "عدة نهايات",
+    "metaDescription": "استمتع بلعبة Twelve Minutes معربة بالكامل على الهاتف واكتشف أسرار حلقة زمنية غامضة تتكرر كل 12 دقيقة وحاول تغيير الأحداث وكشف الحقيقة من خلال حل الألغاز واتخاذ القرارات الصحيحة",
+    "keywords": "تعريب Twelve Minutes, Twelve Minutes معربة, تحميل Twelve Minutes, Twelve Minutes Arabic, Twelve Minutes للاندرويد, Twelve Minutes بالعربي",
+    "status": "new",
+    "statusUntil": 1788874139673,
+    "tags": [
+      "ألغاز",
+      "قصة تفاعلية"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1786282139675,
+    "updatedAt": 1786282139675
+  },
+  {
     "title": "Maid of Sker",
     "slug": "maid-of-sker",
     "images": [
