@@ -1,5 +1,47 @@
 [
   {
+    "title": "Yuppie Psycho",
+    "slug": "yuppie-psycho",
+    "images": [
+      "yuppie-psycho1.jpg",
+      "yuppie-psycho2.jpg",
+      "yuppie-psycho3.jpg",
+      "yuppie-psycho4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/jhh7u\/Yuppie.Psycho.apk",
+        "tag": "APK",
+        "color": "#C62828"
+      }
+    ],
+    "version": "2.7.6b44",
+    "size": "897M",
+    "platform": "Android",
+    "categories": [
+      "ألغاز",
+      "رعب"
+    ],
+    "story": "Yuppie Psycho تحكي عن برايان شاب يحصل على وظيفة في شركة غامضة لكنه يكتشف أن الشركة تخفي أسرارًا وأحداثًا مرعبة فيبدأ بمحاولة فهم ما يحدث والنجاة وكشف الحقيقة اللعبة تجمع بين الرعب النفسي والغموض والألغاز والاستكشاف",
+    "timeToBeat": "18–19 ساعة",
+    "endings": "7 نهايات",
+    "metaDescription": "تحميل لعبة Yuppie Psycho معربة للهاتف لعبة رعب نفسي وبقاء برسومات Pixel استكشف شركة Sintracorp الغامضة حل الألغاز واجه المخلوقات المرعبة واكتشف أسرار القصة مع نهايات متعددة",
+    "keywords": "تعريب Yuppie Psycho, Yuppie Psycho معربة, تحميل Yuppie Psycho, Yuppie Psycho Arabic, Yuppie Psycho للاندرويد, Yuppie Psycho بالعربي",
+    "status": "new",
+    "statusUntil": 1789306772569,
+    "tags": [
+      "ألغاز",
+      "رعب"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1786714772570,
+    "updatedAt": 1786714772570
+  },
+  {
     "title": "Twelve Minutes",
     "slug": "twelve-minutes",
     "images": [
