@@ -30,16 +30,21 @@
     "metaDescription": "تحميل لعبة Yuppie Psycho معربة للهاتف لعبة رعب نفسي وبقاء برسومات Pixel استكشف شركة Sintracorp الغامضة حل الألغاز واجه المخلوقات المرعبة واكتشف أسرار القصة مع نهايات متعددة",
     "keywords": "تعريب Yuppie Psycho, Yuppie Psycho معربة, تحميل Yuppie Psycho, Yuppie Psycho Arabic, Yuppie Psycho للاندرويد, Yuppie Psycho بالعربي",
     "status": "new",
-    "statusUntil": 1789306772569,
+    "statusUntil": 1789306795278,
     "tags": [
       "ألغاز",
       "رعب"
     ],
-    "customFields": [],
+    "customFields": [
+      {
+        "label": "تعريب ",
+        "value": "ابو حمزة"
+      }
+    ],
     "titleColor": "#D32F2F",
     "metaColor": "#1E8E5A",
     "createdAt": 1786714772570,
-    "updatedAt": 1786714772570
+    "updatedAt": 1786714795278
   },
   {
     "title": "Twelve Minutes",
