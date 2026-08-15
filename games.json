@@ -14,7 +14,7 @@
         "label": "تحميل",
         "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/ff4r\/OMORI.apk",
         "tag": "APK",
-        "color": ""
+        "color": "#C62828"
       }
     ],
     "version": "v1.0.8.1",
@@ -30,7 +30,7 @@
     "metaDescription": "تحميل تعريب لعبة OMORI للاندرويد كاملة بالعربي مجاناً - نسخة v1.0.8.1 بحجم 993MB. تعريب دقيق يحافظ على قصة اللعبة الأصلية.",
     "keywords": "تعريب لعبة أوموري, تحميل لعبة OMORI معربه, تعريب OMORI, لعبة OMORI معربه, OMORI ARABIC Android, تعريب OMORI للاندرويد, OMORI APK Arabic, تحميل اوموري معرب",
     "status": "updated",
-    "statusUntil": 1789351423190,
+    "statusUntil": 1789351708682,
     "tags": [
       "تقمص أدوار",
       "رعب"
@@ -44,7 +44,7 @@
     "titleColor": "#D32F2F",
     "metaColor": "#1E8E5A",
     "createdAt": 1784412872771,
-    "updatedAt": 1786759423191
+    "updatedAt": 1786759708683
   },
   {
     "title": "Loop Hero",
