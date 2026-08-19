@@ -1,5 +1,47 @@
 [
   {
+    "title": "OXENFREE Netflix Edition",
+    "slug": "oxenfree-netflix-edition",
+    "images": [
+      "oxenfree-netflix-edition1.jpg",
+      "oxenfree-netflix-edition2.jpg",
+      "oxenfree-netflix-edition3.jpg",
+      "oxenfree-netflix-edition4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/jji8k\/OXENFREE-Netflix-Edition-v4-1-2.apk",
+        "tag": "APK",
+        "color": "#C62828"
+      }
+    ],
+    "version": "4.1.2",
+    "size": "737M",
+    "platform": "Android",
+    "categories": [
+      "ألغاز",
+      "رعب"
+    ],
+    "story": "لعبة مغامرات ورعب نفسي قصصية من تطوير Night School Studio تلعب بشخصية أليكس مراهقة تذهب مع أخيها غير الشقيق جوناس وأصدقائها إلى جزيرة عسكرية مهجورة لكن الأمور تنقلب إلى أحداث خارقة للطبيعة بعد فتح صدع غامض. اختياراتك في الحوارات تؤثر على العلاقات ومسار الأحداث.",
+    "timeToBeat": "5–6 ساعات",
+    "endings": "تتغير حسب اختياراتك",
+    "metaDescription": "تحميل لعبة OXENFREE: Netflix Edition معربة للهاتف لعبة رعب ومغامرات قصصية تدور أحداثها حول مجموعة من المراهقين الذين يذهبون إلى جزيرة عسكرية غامضة لتبدأ بعدها أحداث خارقة للطبيعة ومخيفة تعتمد اللعبة على الاختيارات والحوار",
+    "keywords": "تعريب OXENFREE Netflix Edition, OXENFREE Netflix Edition معربة, تحميل OXENFREE Netflix Edition, OXENFREE Netflix Edition Arabic, OXENFREE Netflix Edition للاندرويد, OXENFREE Netflix Edition بالعربي",
+    "status": "new",
+    "statusUntil": 1789754071606,
+    "tags": [
+      "رعب",
+      "ألغاز"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1787162071608,
+    "updatedAt": 1787162071608
+  },
+  {
     "title": "Yuppie Psycho",
     "slug": "yuppie-psycho",
     "images": [
