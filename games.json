@@ -1,5 +1,45 @@
 [
   {
+    "title": "Sol Cesto",
+    "slug": "sol-cesto",
+    "images": [
+      "sol-cesto1.jpg",
+      "sol-cesto2.jpg",
+      "sol-cesto3.jpg",
+      "sol-cesto4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/hhhjh8u\/Sol.Cesto.apk",
+        "tag": "APK",
+        "color": "#C62828"
+      }
+    ],
+    "version": "1.0.0",
+    "size": "222M",
+    "platform": "Android",
+    "categories": [
+      "استراتيجية"
+    ],
+    "story": "لعبة استراتيجية تكتيكية سريعة تدور داخل زنزانة مظلمة ومتغيرة باستمرار تختار بطلاً وتهبط عبر طوابق عشوائية بحثًا عن الشمس المفقودة بينما تواجه الوحوش والفخاخ والكنوز كل حركة تعتمد على المخاطرة والحظ ويمكنك استخدام العناصر والقدرات والأسنان الملعونة لتغيير احتمالاتك لصالحك",
+    "timeToBeat": "حوالي 13 ساعة",
+    "endings": "7 نهايات",
+    "metaDescription": "تحميل لعبة Sol Cesto معربة للأندرويد نسخة الهاتف استمتع بمغامرة استراتيجية بنظام Roguelite داخل الزنزانات مع ترجمة عربية للنصوص والواجهة وتجربة لعب مناسبة لأجهزة Android",
+    "keywords": "تعريب Sol Cesto, Sol Cesto معربة, تحميل Sol Cesto, Sol Cesto Arabic, Sol Cesto للاندرويد, Sol Cesto بالعربي",
+    "status": "new",
+    "statusUntil": 1794414349354,
+    "tags": [
+      "استراتيجية"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#1E8E5A",
+    "createdAt": 1789230349355,
+    "updatedAt": 1789230349355
+  },
+  {
     "title": "I hate this game",
     "slug": "i-hate-this-game",
     "images": [
