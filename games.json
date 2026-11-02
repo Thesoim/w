@@ -1,5 +1,45 @@
 [
   {
+    "title": "The Hermetic Tower",
+    "slug": "the-hermetic-tower",
+    "images": [
+      "the-hermetic-tower1.jpg",
+      "the-hermetic-tower2.jpg",
+      "the-hermetic-tower3.jpg",
+      "the-hermetic-tower4.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/me-games-\/releases\/download\/hh7j8\/The.Hermetic.Tower.apk",
+        "tag": "APK",
+        "color": "#C62828"
+      }
+    ],
+    "version": "1.0.0",
+    "size": "39.67M",
+    "platform": "Android",
+    "categories": [
+      "تقمص أدوار"
+    ],
+    "story": "رحلة غامضة داخل برج يحقق الأمنيات حيث تقودك اختياراتك إلى عواقب ونهايات مختلفة",
+    "timeToBeat": "لا توجد مدة",
+    "endings": "متعددة النهايات",
+    "metaDescription": "تحميل لعبة The Hermetic Tower معربة للأندرويد استمتع بتجربة لعبة تقمص الأدوار والفانتازيا المظلمة باللغة العربية مع استكشاف الأبراج والمعارك والاختيارات المتعددة والنهايات المختلفة على هاتفك الأندرويد",
+    "keywords": "تعريب The Hermetic Tower, The Hermetic Tower معربة, تحميل The Hermetic Tower, The Hermetic Tower Arabic, The Hermetic Tower للاندرويد, The Hermetic Tower بالعربي",
+    "status": "new",
+    "statusUntil": 1796248713634,
+    "tags": [
+      "تقمص أدوار"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#5B4FE9",
+    "createdAt": 1793656713636,
+    "updatedAt": 1793656713636
+  },
+  {
     "title": "Sol Cesto",
     "slug": "sol-cesto",
     "images": [
