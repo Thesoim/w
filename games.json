@@ -1,5 +1,46 @@
 [
   {
+    "title": "Cursed Gem",
+    "slug": "cursed-gem",
+    "images": [
+      "cursed-gem1.jpg",
+      "cursed-gem2.jpg",
+      "cursed-gem3.jpg"
+    ],
+    "videoUrl": "",
+    "buttons": [
+      {
+        "label": "تحميل",
+        "url": "https:\/\/github.com\/Thesoim\/gmsoim\/releases\/download\/yyu7u\/Cursed.Gem.apk",
+        "tag": "",
+        "color": "#C62828"
+      }
+    ],
+    "version": "1.0.0",
+    "size": "68.41M",
+    "platform": "Android",
+    "categories": [
+      "ألغاز",
+      "منصات"
+    ],
+    "story": "تدور أحداث اللعبة حول Oliver الذي يدخل منجماً قديماً بحثاً عن الألماس ليشتري خاتم زواج لحبيبته Silvia لكنه يجد نفسه محاصراً داخل كهف ملعون عليك استكشاف الكهوف وحل الألغاز وتجاوز الفخاخ وجمع الكنوز بمساعدة صديقه Jerry لكشف سر اللعنة والهروب منها",
+    "timeToBeat": "لا تتوفر مدة",
+    "endings": "لا يوجد عدد",
+    "metaDescription": "تحميل لعبة Cursed Gem معربة للأندرويد APK مجاناً لعبة مغامرات ومنصات ثنائية الأبعاد تجمع بين الألغاز والتحديات والاستكشاف برسومات Pixel Art كلاسيكية استكشف الكهوف الملعونة واجمع الألماس واكتشف الأسرار وخض مغامرة Oliver لكسر اللعنة",
+    "keywords": "تعريب Cursed Gem, Cursed Gem معربة, تحميل Cursed Gem, Cursed Gem Arabic, Cursed Gem للاندرويد, Cursed Gem بالعربي",
+    "status": "new",
+    "statusUntil": 1796773905971,
+    "tags": [
+      "ألغاز",
+      "منصات"
+    ],
+    "customFields": [],
+    "titleColor": "#D32F2F",
+    "metaColor": "#5B4FE9",
+    "createdAt": 1794181905972,
+    "updatedAt": 1794181905972
+  },
+  {
     "title": "100 Lil Jumps",
     "slug": "100-lil-jumps",
     "images": [
